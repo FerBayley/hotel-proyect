@@ -1,0 +1,197 @@
+* {
+	border: 0;
+	margin: 0;
+	padding: 0;
+}
+footer {
+	height:  auto;
+	margin: .5em 0 0 0;
+	padding: .5em 0 .5em 0;
+	text-align: center;
+	width: auto;
+}
+html {
+	border: 0;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+header {
+	background: grey;
+	height: 450px;
+	width: auto;
+}
+body {
+	color: #333;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+	height: 100%;
+}
+.Cuadro {
+	background-color: rgba(0,0,0,0.7);
+	border-radius: 5px 5px 5px 5px;
+	color: #FFF;
+	height: auto;
+	margin: 0 auto;
+	text-align: center;
+	width: 75%;
+}
+.Cuadro a {
+	background: orange;
+	border-radius: 4px 4px 4px 4px;
+	color: #FFF;
+	padding: .7em 4.8em .7em 4.8em;
+	text-decoration: none;
+}
+.Cuadro-celeste {
+	height: 315px;
+	margin: 0 auto;
+	margin-bottom: 1em;
+	margin-top: 1.2em;
+	width: 60%;
+}
+.Cuadro-celeste a {
+	background: orange;
+    border-radius: 4px 4px 4px 4px;
+    color: #FFF;
+    padding: .7em 4.8em .7em 4.8em;
+    text-decoration: none;
+}
+.Cuadro a:hover {
+	background: green;
+}
+.Cuadro h6 {
+	font-size: .7em;
+	padding: 3em 0 2em 0;
+}
+.Cuadro img {
+	position: relative;
+	margin: -2.5em 0 0 0;
+	z-index: 100;
+}
+.Cuadro p {
+	font-size: 1.1em;
+	font-weight: 100;
+	line-height: 1.7;
+	padding: 0 1.8em 1.8em 1.8em;
+}
+.Costumer-profile {
+	background: #DDD;
+	height: 300px;
+	margin: .5em 0 0 0;
+}
+h1 {
+	margin: 0;
+	padding: 0;
+}
+.Info {
+	color: grey;
+	display: inline-block;
+	font-size: .8em;
+	line-height: 1.7;
+	margin: 0 .5em 0 .5em;
+	padding: 1em 0 0 0;
+	text-align: left;
+	vertical-align: top;
+	width: 45%;
+} 
+.Info a {
+	color: #333;
+} 
+.Loving-footer {
+	border-top: solid 1px #DDD;
+	height: auto;
+	margin: .8em 0 0 0;
+	text-align: right;
+	padding: 0 2.5em 0 0;
+	width: auto;
+}
+.Loving-footer  ul li {
+	color: grey;
+	display: inline-block;
+	font-size: .8em;
+	padding: .5em .2em .5em 0;
+	vertical-align: middle;
+}
+.Metrics-panel {
+	background: #DDD;
+	height: 250px;
+	margin: .5em 0 0 0;
+	width: auto;
+}
+.Muestra-clientes {
+	background: #DDD;
+	height: 250px;
+	margin: .5em 0 0 0;
+	width: auto;
+}
+.Pauta {
+	background-image: url(../images/pauta-masclientes.jpg);
+	background-repeat: no-repeat;
+	background-position: top;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+  	background-size: cover;
+	height: 350px;
+	text-align: center;
+}
+.Pauta-emailMarketing {
+	background-image: url(../images/head-email.jpg);
+	background-repeat: no-repeat;
+	background-position: top;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+  	background-size: cover;
+	height: 350px;
+	padding: 4em 0 0 0;
+}
+.Pauta .Pauta-col1, .Pauta-col2 {
+	display: inline-block;
+	margin: 0 1em 0 1em;
+	vertical-align: top;
+	width: 45%;
+}
+.Pauta-col1 h2 {
+	color: #FFF;
+	font-size: 1.4em;
+	font-weight: 100;
+	padding: 5em 0 0 0;
+}
+.Pauta-col1 h3 {
+	color: orange;
+	font-size: 1em;
+	font-weight: 100;
+	padding-top: .3em;
+}
+.Redes {
+	display: inline-block;
+	margin: 0 1.5em 0 .5em;
+	text-align: right;
+	vertical-align: top;
+	width: 50%;
+}
+.Redes ul li {
+	display: inline-block;
+	padding: 1.3em .3em .3em .5em;
+	vertical-align: top;
+}
+.Texto-explicacion {
+	background: #DDD;
+	font-size: 1.5em;
+	height: auto;
+	line-height: 1.5;
+	margin: .5em 0 0 0;
+	padding: 1em 1em 1em 1em;
+	text-align: center;
+}
+.Texto-servicios {
+	background: #DDD;
+	font-size: 1.5em;
+	height: auto;
+	line-height: 1.5;
+	margin: .5em 0 0 0;
+	padding: 1em 1em 1em 1em;
+	text-align: center;
+}
