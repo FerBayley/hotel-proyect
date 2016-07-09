@@ -22,10 +22,10 @@
 
 			<nav class="Navegacion">
 				<ul>
-					<li><a href="#">NOSOTROS</a> |</li>
-					<li><a href="#">SERVICIOS</a> |</li>
-					<li><a href="#">TRABAJA EN 2.C</a> |</li>
-					<li><a href="#">contacto@dospuntoclick.com.ar</a></li>
+					<li><a href="#">NOSOTROS</a> | </li>
+					<li><a href="#">SERVICIOS</a> | </li>
+					<li><a href="#">TRABAJA EN 2.C</a> | </li>
+					<li><a href="#">CONTACTO</a></li>
 				</ul>
 			</nav> <!--/nav / Navegacion -->
 
