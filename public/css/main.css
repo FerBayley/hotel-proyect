@@ -17,11 +17,11 @@ html {
 	padding: 0;
 }
 header {
-	background: grey;
-	height: 450px;
+	height: auto;
 	width: auto;
 }
 body {
+	box-sizing: border-box;
 	color: #333;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 16px;
@@ -36,6 +36,14 @@ body {
 	text-align: center;
 	width: 75%;
 }
+.Contenedor-principal {
+	background-image: url("../images/dummi2.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: top;
+	height: 700px;
+	width: 100%;
+}
 .Cuadro a {
 	background: orange;
 	border-radius: 4px 4px 4px 4px;
@@ -47,11 +55,11 @@ body {
 	height: 315px;
 	margin: 0 auto;
 	margin-bottom: 1em;
-	margin-top: 1.2em;
+	margin-top: 2.2em;
 	width: 60%;
 }
 .Cuadro-celeste a {
-	background: orange;
+	background: #009beb;
     border-radius: 4px 4px 4px 4px;
     color: #FFF;
     padding: .7em 4.8em .7em 4.8em;
@@ -60,8 +68,9 @@ body {
 .Cuadro a:hover {
 	background: green;
 }
-.Cuadro h6 {
-	font-size: .7em;
+.Cuadro h3 {
+	font-size: .8em;
+	font-weight: 100;
 	padding: 3em 0 2em 0;
 }
 .Cuadro img {
@@ -97,6 +106,10 @@ h1 {
 } 
 .Info a {
 	color: #333;
+	text-decoration: none;
+} 
+.Info a:hover {
+	color: grey;
 } 
 .Loving-footer {
 	border-top: solid 1px #DDD;
@@ -160,7 +173,7 @@ h1 {
 	padding: 5em 0 0 0;
 }
 .Pauta-col1 h3 {
-	color: orange;
+	color: #009beb;
 	font-size: 1em;
 	font-weight: 100;
 	padding-top: .3em;
@@ -178,12 +191,12 @@ h1 {
 	vertical-align: top;
 }
 .Texto-explicacion {
-	background: #DDD;
-	font-size: 1.5em;
+	background: #ecf0f1;
+	font-size: 1.3em;
+	font-weight: 100;
 	height: auto;
-	line-height: 1.5;
-	margin: .5em 0 0 0;
-	padding: 1em 1em 1em 1em;
+	line-height: 1.7;
+	padding: 1em 2em 1em 2em;
 	text-align: center;
 }
 .Texto-servicios {
@@ -195,3 +208,97 @@ h1 {
 	padding: 1em 1em 1em 1em;
 	text-align: center;
 }
+.Nombre {
+	display: inline-block;
+	padding: 1em 0 0 2em;
+	vertical-align: middle;
+	width: 20%;
+}
+.Nombre h1 {
+	color: #FFF;
+	font-family: 'Fredoka One', cursive;
+	font-size: 1.8em;
+	font-weight: 100;
+}
+.Nombre h2 {
+	color: #FFF;
+	font-family: 'Roboto', sans-serif;
+	font-size: .8em;
+	font-weight: 100;
+}
+.Navegacion {
+	color: #FFF;
+	/*background-color: green;*/
+	display: inline-block;
+	float: right;
+	vertical-align: middle;
+	width: 40%;
+}
+.Navegacion ul li {
+	display: inline-block;
+	font-family: 'Roboto', sans-serif;
+	font-size: 1em;
+	font-weight: 100;
+	margin: 2em 0 0 0;
+	vertical-align: middle;
+}
+.Navegacion ul li a {
+	color: #FFF;
+	text-decoration: none;
+}
+.Texto-destacado {
+	box-sizing: border-box;
+	color: #FFF;
+	height: auto;
+	margin: 0 auto;
+	margin-top: 9em;
+	text-align: center;
+	width: 90%;
+}
+.Texto-destacado p {
+	font-size: 4em;
+	line-height: 1.1em;
+}
+.Texto-destacado h2 {
+	color: #FFF;
+	font-size: 1.1em;
+	font-weight: 100;
+	margin: 1em 0 1em 0;
+}
+.Texto-destacado h3 {
+	color: #FFF;
+	font-family: 'Fredoka One', cursive;
+	font-size: 2em;
+	margin: 1em 0 0 0;
+}
+.Botonera {
+	margin: 1.3em 0 0 0;
+	text-align: center;
+}
+.Botonera a {
+	color: #FFF;
+	text-decoration: none;
+}
+.Btn1 {
+	background-color: #009beb;
+	border-radius: 3px 3px 3px 3px;
+	display: inline-block;
+	margin: 0 .5em 0 .5em;
+	padding: 1em 0 1em 0;
+	width: 20%;
+}
+.Btn1:hover {
+	background-color: orange;
+}
+.Btn2 {
+	background-color: #009beb;
+	border-radius: 3px 3px 3px 3px;
+	display: inline-block;
+	margin: 0 .5em 0 .5em;
+	padding: 1em 0 1em 0;
+	width: 20%;
+}
+.Btn2:hover {
+	background-color: orange;
+}
+
