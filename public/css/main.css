@@ -3,6 +3,11 @@
 	margin: 0;
 	padding: 0;
 }
+figure {
+	border: 0;
+	margin: 0;
+	padding: 0;
+}
 footer {
 	height:  auto;
 	margin: .5em 0 0 0;
@@ -85,9 +90,11 @@ body {
 	padding: 0 1.8em 1.8em 1.8em;
 }
 .Costumer-profile {
-	background: #DDD;
-	height: 300px;
-	margin: .5em 0 0 0;
+	background-color: #f7f6f6;
+	box-sizing: border-box;
+	height: auto;
+	padding: 2em 0 2em 0;
+	margin: 1em 0 2.5em 0;
 }
 h1 {
 	margin: 0;
@@ -126,17 +133,20 @@ h1 {
 	padding: .5em .2em .5em 0;
 	vertical-align: middle;
 }
-.Metrics-panel {
-	background: #DDD;
-	height: 250px;
-	margin: .5em 0 0 0;
+.Muestra-clientes {
+	height: auto;
+	margin: 2em 0 0 0;
+	opacity: .5;
+	text-align: center;
 	width: auto;
 }
-.Muestra-clientes {
-	background: #DDD;
-	height: 250px;
-	margin: .5em 0 0 0;
-	width: auto;
+.Muestra-clientes ul li {
+	display: inline-block;
+	padding: 2em 1em 2em 1em;
+	vertical-align: middle;	
+}
+.Muestra-clientes ul li img {
+	border-radius: 5px 5px 5px 5px;
 }
 .Pauta {
 	background-image: url(../images/pauta-masclientes.jpg);
@@ -157,8 +167,8 @@ h1 {
 	-moz-background-size: cover;
 	-o-background-size: cover;
   	background-size: cover;
-	height: 350px;
-	padding: 4em 0 0 0;
+	height: auto;
+	padding: 4em 0 3em 0;
 }
 .Pauta .Pauta-col1, .Pauta-col2 {
 	display: inline-block;
@@ -192,20 +202,40 @@ h1 {
 }
 .Texto-explicacion {
 	background: #ecf0f1;
-	font-size: 1.3em;
+	font-size: 1.2em;
 	font-weight: 100;
 	height: auto;
 	line-height: 1.7;
-	padding: 1em 2em 1em 2em;
+	padding: 3em 2em 3em 2em;
 	text-align: center;
 }
+.Texto-explicacion a {
+	color: #FFF;
+	text-decoration: none;
+}
 .Texto-servicios {
-	background: #DDD;
-	font-size: 1.5em;
+	background-color: #e74c3c;
 	height: auto;
-	line-height: 1.5;
-	margin: .5em 0 0 0;
-	padding: 1em 1em 1em 1em;
+	margin: -2.6em 0 0 0;
+}
+.Texto-servicios p {
+	color: #DDD;
+	font-size: 1.2em;
+	line-height: 1.8;
+	padding: .5em 2.5em .3em 2.5em;
+	text-align: center;
+}
+.Texto-explicacion h2 {
+	font-size: 1.1em;
+	font-weight: 600;
+	margin: .3em 0 .3em 0;
+}
+.Texto-servicios h2 {
+	color: #FFF;
+	font-size: 1.5em;
+	font-weight: 100;
+	margin: 1em 0 .3em 0;
+	padding: 1.5em 0 0 0;
 	text-align: center;
 }
 .Nombre {
@@ -228,7 +258,6 @@ h1 {
 }
 .Navegacion {
 	color: #FFF;
-	/*background-color: green;*/
 	display: inline-block;
 	float: right;
 	vertical-align: middle;
@@ -237,14 +266,17 @@ h1 {
 .Navegacion ul li {
 	display: inline-block;
 	font-family: 'Roboto', sans-serif;
-	font-size: 1em;
+	font-size: .9em;
 	font-weight: 100;
-	margin: 2em 0 0 0;
+	margin: 2.9em 0 0 2.5em;
 	vertical-align: middle;
 }
 .Navegacion ul li a {
 	color: #FFF;
 	text-decoration: none;
+}
+.Navegacion ul li a:hover {
+	color: #009beb;
 }
 .Texto-destacado {
 	box-sizing: border-box;
@@ -267,8 +299,8 @@ h1 {
 }
 .Texto-destacado h3 {
 	color: #FFF;
-	font-family: 'Fredoka One', cursive;
-	font-size: 2em;
+	font-size: 1.6em;
+	font-weight: 100;
 	margin: 1em 0 0 0;
 }
 .Botonera {
@@ -301,4 +333,241 @@ h1 {
 .Btn2:hover {
 	background-color: orange;
 }
-
+.Clientes {
+	box-sizing: border-box;
+	height: auto;
+	text-align: center;
+	width: 100%;
+}
+.Clientes1 {
+	border-right: solid 1px #DDD;
+	display: inline-block;
+	height: auto;
+	padding-right: .9em;
+	padding-left: .7em;
+	vertical-align: top;
+	width: 30%;
+}
+.Clientes2 {
+	border-right: solid 1px #DDD;
+	display: inline-block;
+	padding-right: .9em;
+	padding-left: .7em;
+	vertical-align: top;
+	width: 30%;
+}
+.Clientes3 {
+	display: inline-block;
+	padding-right: .9em;
+	padding-left: .7em;
+	vertical-align: top;
+	width: 30%;
+}
+.Clientes1 img, .Clientes2 img, .Clientes3 img {
+	border: solid 5px #DDD;
+	border-radius: 50%;
+	margin: 1em 0 0 0;	
+}
+.Clientes1 h2, .Clientes2 h2, .Clientes3 h2 {
+	color: #009beb;
+	font-size: 1.2em;
+	font-weight: 100;
+	margin: .4em 0 0 0;
+}
+.Clientes1 h4, .Clientes2 h4, .Clientes3 h4 {
+	font-size: .9em;
+	font-weight: 100;
+	margin: .2em 0 .7em 0;
+}
+.Clientes1 a, .Clientes2 a, .Clientes3 a {
+	color: #e67e22;
+	font-size: .8em;
+	text-decoration: none;
+}
+.Clientes1 a:hover, .Clientes2 a:hover, .Clientes3 a:hover {
+	color: #d35400;
+	font-size: .8em;
+	text-decoration: underline;
+}
+.Clientes1 p, .Clientes2 p, .Clientes3 p  {
+	background-color: #DDD;
+	border-radius: 5px 5px 5px 5px;
+	color: #333;
+	font-size: .9em;
+	line-height: 1.7em;
+	margin: 1em 0 1em 0;
+	padding: 1.5em 1.5em 1.5em 1.5em;
+	text-align: justify;
+}
+.UnicoPLan {
+	background-color: #e67e22;
+	border-radius: 4px 4px 4px 4px;
+	margin: 0 auto;
+	margin-top: 2em;
+	padding: 1em 0 1em 0;
+	width: 35%;
+}
+.UnicoPLan:hover {
+	background-color: #d35400;
+}
+.Resaltado {
+	color: #e67e22;
+}
+/*.Diseñamos-y-desarrollamos {
+	background-image: url(../images/desarrollo-glass.jpg);
+	background-repeat: no-repeat;
+	background-position: top;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+  	background-size: cover;
+	height: 350px;
+	text-align: center;
+}
+*/
+.Services {
+	box-sizing: border-box;
+	height: auto;
+	margin: 0 0 3em 0;
+	text-align: center;
+	width: 100%;
+}
+.Services1 {
+	height: auto;
+	display: inline-block;
+	margin: 0 .7em 0 .7em;
+	width: 15%;
+}
+.Services1 a {
+	background-color: #f54f33;
+	border-radius: 3px 3px 3px 3px;
+	color: #FFF;
+	padding: .7em 2.5em .7em 2.5em;
+	text-decoration: none;
+}
+.Services2 a {
+	background-color: #da2244;
+	border-radius: 3px 3px 3px 3px;
+	color: #FFF;
+	padding: .7em 2.5em .7em 2.5em;
+	text-decoration: none;
+}
+.Services3 a {
+	background-color: #4b5f83;
+	border-radius: 3px 3px 3px 3px;
+	color: #FFF;
+	padding: .7em 2.5em .7em 2.5em;
+	text-decoration: none;
+}
+.Services4 a {
+	background-color: #e6a422;
+	border-radius: 3px 3px 3px 3px;
+	color: #FFF;
+	padding: .7em 2.5em .7em 2.5em;
+	text-decoration: none;
+}
+.Services5 a {
+	background-color: #4b5f83;
+	border-radius: 3px 3px 3px 3px;
+	color: #FFF;
+	padding: .7em 2.5em .7em 2.5em;
+	text-decoration: none;
+}
+.Services1 img, .Services2 img, .Services3 img, .Services4 img, .Services5 img {
+	margin: 0 0 2em 0;
+}
+.Services1 h2 {
+	color: grey;
+	font-family: 'Fredoka One', cursive;
+	font-size: 1.3em;
+	margin: .5em 0 1em 0;
+}
+.Services2 {
+	color: grey;
+	height: auto;
+	display: inline-block;
+	margin: 0 .7em 0 .7em;
+	width: 15%;
+}
+.Services3 {
+	color: grey;
+	height: auto;
+	display: inline-block;
+	margin: 0 .7em 0 .7em;
+	width: 20%;
+}
+.Services2 h2 {
+	color: grey;
+	font-family: 'Fredoka One', cursive;
+	font-size: 1.3em;
+	margin: .5em 0 1em 0;
+}
+.Services3 h2 {
+	color: grey;
+	font-family: 'Fredoka One', cursive;
+	font-size: 1.3em;
+	margin: .5em 0 1em 0;
+}
+.Services4 h2 {
+	color: grey;
+	font-family: 'Fredoka One', cursive;
+	font-size: 1.3em;
+	margin: .5em 0 1em 0;
+}
+.Services5 h2 {
+	color: grey;
+	font-family: 'Fredoka One', cursive;
+	font-size: 1.3em;
+	margin: .5em 0 1em 0;
+}
+.Services4 {
+	height: auto;
+	display: inline-block;
+	margin: 0 .7em 0 .7em;
+	width: 15%;
+}
+.Services5 {
+	height: auto;
+	display: inline-block;
+	margin: 0 .7em 0 .7em;
+	width: 15%;
+}
+.Vermas {
+	background-color: green;
+	border-radius: 4px 4px 4px 4px;
+	margin: 0 auto;
+	margin-bottom: 1em;
+	margin-top: 1.5em;
+	padding: .5em .4em .5em .4em;
+	width: 50%;
+}
+.Vermas1 {
+	background-color: #f54f33;
+	border-radius: 4px 4px 4px 4px;
+	margin: 0 auto;
+	margin-bottom: 1em;
+	margin-top: 1.5em;
+	padding: .5em .4em .5em .4em;
+	width: 50%;
+}
+.Vermas a {
+	text-decoration: none;
+}
+.Montain {
+	background-image: url(../images/montain.jpg);
+	background-repeat: no-repeat;
+	background-position: top;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+  	background-size: cover;
+	height: 450px;
+}
+.Montain h2 {
+	color: #FFF;
+	font-family: 'Varela Round', sans-serif;
+	font-size: 2.3em;
+	font-weight: 100;
+	text-align: center;
+	padding: 3.5em 0 0 0;
+}
