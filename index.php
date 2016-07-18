@@ -12,46 +12,16 @@
 </head>
 <body>
 
-<section class="Contenedor-central">	
-	
-	<section class="Contenedor-principal">
-		<header>
-			<div class="Nombre">
-				<h1>2PuntoClick</h1>
-				<h2>WEB PRODUCTS DESIGNERS</h2>
-			</div> <!--/Nombre -->
+<section class="Contenedor-central">
 
-			<nav class="Navegacion">
-				<ul>
-					<li><a href="#">NOSOTROS</a></li>
-					<li><a href="#">SERVICIOS</a></li>
-					<li><a href="#">TRABAJA EN 2.C</a></li>
-					<li><a href="#">CONTACTO</a></li>
-				</ul>
-			</nav> <!--/nav / Navegacion -->
 
-			<div class="Texto-destacado">
-				<p>Tu unidad de negocios en la web</p>
-				<h2>Pensamos | Diseñamos | Desarrollomos | Alojamos | Medimos y analizamos tu empresa en la web | + Soporte tecnico</h2>
-				<h3>A solo ar$990 x mes</h3>
-			</div> <!--/Texto-destacado -->
+	<div class="Video-container">
+		<video autoplay="true" loop="true" width="1280" height="720">
+			<source src="public/video/vidriera/mp4/video1.mp4" type="video/mp4" />
+            <source src="public/video/vidriera/webm/video1.webm" type="video/webm" />
+		</video>
+	</div> <!--/Video-container-->
 
-			<section class="Botonera">
-				<a href="#">
-					<div class="Btn1">
-						CONTACTANOS
-					</div> <!--/Btn1 -->
-				</a>
-
-				<a href="#">
-					<div class="Btn2">
-						CONTRATAR
-					</div> <!--/Btn2 -->
-				</a>
-			</section> <!--/Botonera -->
-		</header> <!--/header -->
-
-	</section> <!--/Contenedor-principal -->
 
 	<section class="Texto-explicacion">
 		<article>
@@ -95,7 +65,6 @@
 							"Desde hace mas de 10 años trabajamos con la agencia en todos nuestros productos para la web, en este tiempo tuvimos importantes resultados que llevaron a otro nivel nuestra relacion con los pacientes."
 						</p>
 					</article>
-					<a href="http://www.flabiavit.com.ar">www.flabiavit.com.ar</a>
 			</div> <!--/Clientes1 -->
 
 			<div class="Clientes2">
@@ -107,7 +76,6 @@
 							"Dia a dia tenemos gran cantidad de reservas a traves de nuestro web site, logrando una gran base de comensales, los cuales contactamos mes a mes con beneficios exclusivos desde nuestro news letter."
 						</p>
 					</article>
-					<a href="http://www.juanam.com">www.juanam.com</a>
 			</div> <!--/Clientes2 -->
 
 			<div class="Clientes3">
@@ -119,7 +87,6 @@
 							"Nuestro mayor feature es nuestro chat, nos conecta al instante con nuestros clientes y lo mejor de todo, con nuestros nuevos clientes, una simple idea nos hizo posicionarnos mejor que la competencia."
 						</p>
 					</article>
-					<a href="http://www.arquinovacolor.com.ar">www.arquinovacolor.com.ar</a>
 			</div> <!--/Clientes3 -->
 		</section> <!--/Clientes -->
 	</section> <!--/Costumer-profile -->
@@ -162,20 +129,12 @@
 	</section> <!--/Services -->
 
 	<section class="Montain">
-		<h2>Conoce nuestra metodologia de trabajo #TeamEverest</h2>
+		<h2>Conoce nuestra metodologia de trabajo <span class="Team">#TeamEverest</span></h2>
+		<h3>Codo a codo con nuestro cliente logramos desarrollar el producto perfecto</h3>
+			<div class="Mountain-vermas">
+				<a href="#">CONOCER MAS</a>
+			</div> <!--/Mountain-vermas -->
 	</section> <!--/Montain -->
-
-	<section class="Pauta">
-		<div class="Pauta-col1">
-			<h2>Tengo que dar a conocer mis serivios en las redes</h2>
-			<h3>Desarrollamos tu estrategia de marketing digital</h3>
-			<div class="Cuadro-celeste">
-				<a href="#">VER MAS</a>
-			</div> <!--/Cuadro-celeste -->
-		</div> <!--/Pauta-col1 -->
-
-		<div class="Pauta-col2"></div> <!--/Pauta-col2 -->
-	</section> <!--/Pauta -->
 
 	<section class="Pauta-emailMarketing">
 		<div class="Cuadro">
@@ -191,7 +150,6 @@
 				</p>
 				<a href="#">VER MAS</a>
 			</article>
-			<h3>*Este servicio no esta incluido dentro de la tarifa prepaga.</h3>
 		</div> <!--/Cuadro -->
 	</section> <!--/Pauta-emailMarketing -->
 

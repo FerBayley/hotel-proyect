@@ -15,6 +15,10 @@ footer {
 	text-align: center;
 	width: auto;
 }
+html, body {
+	height: 100%;
+	width: 100%;
+}
 html {
 	border: 0;
 	height: 100%;
@@ -201,11 +205,13 @@ h1 {
 	vertical-align: top;
 }
 .Texto-explicacion {
+	color: grey;
 	background: #ecf0f1;
-	font-size: 1.2em;
+	font-size: 1.3em;
 	font-weight: 100;
 	height: auto;
-	line-height: 1.7;
+	line-height: 2em;
+	margin: -.3em 0 0 0;
 	padding: 3em 2em 3em 2em;
 	text-align: center;
 }
@@ -274,6 +280,11 @@ h1 {
 .Navegacion ul li a {
 	color: #FFF;
 	text-decoration: none;
+	-webkit-transition: all 0.5s ease;
+-moz-transition: all 0.5s ease;
+-o-transition: all 0.5s ease;
+transition: all 0.5s ease;
+
 }
 .Navegacion ul li a:hover {
 	color: #009beb;
@@ -283,13 +294,13 @@ h1 {
 	color: #FFF;
 	height: auto;
 	margin: 0 auto;
-	margin-top: 9em;
+	margin-top: 11em;
 	text-align: center;
 	width: 90%;
 }
 .Texto-destacado p {
 	font-size: 4em;
-	line-height: 1.1em;
+	line-height: 1em;
 }
 .Texto-destacado h2 {
 	color: #FFF;
@@ -317,6 +328,10 @@ h1 {
 	display: inline-block;
 	margin: 0 .5em 0 .5em;
 	padding: 1em 0 1em 0;
+	-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+	transition: all 0.5s ease;
 	width: 20%;
 }
 .Btn1:hover {
@@ -328,6 +343,11 @@ h1 {
 	display: inline-block;
 	margin: 0 .5em 0 .5em;
 	padding: 1em 0 1em 0;
+	-webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+	transition: all 0.5s ease;
+
 	width: 20%;
 }
 .Btn2:hover {
@@ -405,7 +425,12 @@ h1 {
 	margin: 0 auto;
 	margin-top: 2em;
 	padding: 1em 0 1em 0;
-	width: 35%;
+	-webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+	transition: all 0.5s ease;
+
+	width: 40%;
 }
 .UnicoPLan:hover {
 	background-color: #d35400;
@@ -444,6 +469,9 @@ h1 {
 	color: #FFF;
 	padding: .7em 2.5em .7em 2.5em;
 	text-decoration: none;
+}
+.Services1 a:hover, .Services2 a:hover, .Services3 a:hover, .Services4 a:hover, .Services5 a:hover {
+	opacity: .8;
 }
 .Services2 a {
 	background-color: #da2244;
@@ -566,8 +594,63 @@ h1 {
 .Montain h2 {
 	color: #FFF;
 	font-family: 'Varela Round', sans-serif;
-	font-size: 2.3em;
+	font-size: 2.7em;
 	font-weight: 100;
 	text-align: center;
-	padding: 3.5em 0 0 0;
+	padding: 3.8em 0 0 0;
 }
+.Montain h3 {
+	color: #FFF;
+	font-family: 'Varela Round', sans-serif;
+	font-size: 1.2em;
+	font-weight: 100;
+	text-align: center;
+	padding: .5em 0 0 0;
+}
+.Team {
+	color: #009beb;
+}
+.Mountain-vermas {
+	height: auto;
+	margin: 0 auto;
+	margin-top: 2.5em;
+	text-align: center;
+	width: 100%;
+}
+.Mountain-vermas a {
+	border: solid 1px #FFF;
+	border-radius: 3px 3px 3px 3px;
+	color: #FFF;
+	padding: .7em 3.5em .7em 3.5em;
+	text-decoration: none;
+}
+.Texto-destacado a {
+	color: #FFF;
+	text-decoration: none;
+	-webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+	transition: all 0.5s ease;
+
+}
+.Texto-destacado a:hover {
+	color: #009beb;
+}
+
+.Video-container {
+	height: 100%;
+	width: 100%;
+}
+video {
+	min-width: 100%;
+	min-height: 100%;
+	width: auto;
+	height: auto;
+	width: 100%;
+	margin: -12em 0 0 0;
+}
+	
+
+
+
+
