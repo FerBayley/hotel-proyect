@@ -28,6 +28,9 @@ html {
 header {
 	height: auto;
 	width: auto;
+	position: relative;
+	z-index: 1;
+	margin: -38em 0 0 0;
 }
 body {
 	box-sizing: border-box;
@@ -211,8 +214,8 @@ h1 {
 	font-weight: 100;
 	height: auto;
 	line-height: 2em;
-	margin: -.3em 0 0 0;
-	padding: 3em 2em 3em 2em;
+	margin: 7em 0 0 0;
+	padding: 1.7em 2em 1.7em 2em;
 	text-align: center;
 }
 .Texto-explicacion a {
@@ -278,23 +281,23 @@ h1 {
 	vertical-align: middle;
 }
 .Navegacion ul li a {
-	color: #FFF;
+	color: #333;
 	text-decoration: none;
 	-webkit-transition: all 0.5s ease;
--moz-transition: all 0.5s ease;
--o-transition: all 0.5s ease;
-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+	transition: all 0.5s ease;
 
 }
 .Navegacion ul li a:hover {
-	color: #009beb;
+	color: #e67e22;
 }
 .Texto-destacado {
 	box-sizing: border-box;
 	color: #FFF;
 	height: auto;
 	margin: 0 auto;
-	margin-top: 11em;
+	margin-top: 8.5em;
 	text-align: center;
 	width: 90%;
 }
@@ -309,8 +312,8 @@ transition: all 0.5s ease;
 	margin: 1em 0 1em 0;
 }
 .Texto-destacado h3 {
-	color: #FFF;
-	font-size: 1.6em;
+	font-family: 'Fredoka One', cursive;
+	font-size: 2em;
 	font-weight: 100;
 	margin: 1em 0 0 0;
 }
@@ -453,7 +456,7 @@ transition: all 0.5s ease;
 .Services {
 	box-sizing: border-box;
 	height: auto;
-	margin: 0 0 3em 0;
+	margin: 5em 0 5em 0;
 	text-align: center;
 	width: 100%;
 }
@@ -634,7 +637,7 @@ transition: all 0.5s ease;
 
 }
 .Texto-destacado a:hover {
-	color: #009beb;
+	color: #e67e22;
 }
 
 .Video-container {
