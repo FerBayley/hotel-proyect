@@ -702,6 +702,7 @@ video {
 }
 .Prepago {
 	background-color: #ecf0f1;
+	border-top: solid 1px #DDD;
 	font-size: 2em;
 	font-family: 'Raleway', sans-serif;
 	font-weight: 100;
