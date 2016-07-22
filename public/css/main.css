@@ -35,18 +35,9 @@ header {
 body {
 	box-sizing: border-box;
 	color: #333;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Open Sans', Verdana, Arial, sans-serif;
 	font-size: 16px;
 	height: 100%;
-}
-.Cuadro {
-	background-color: rgba(0,0,0,0.7);
-	border-radius: 5px 5px 5px 5px;
-	color: #FFF;
-	height: auto;
-	margin: 0 auto;
-	text-align: center;
-	width: 75%;
 }
 .Contenedor-principal {
 	background-image: url("../images/dummi2.jpg");
@@ -55,13 +46,6 @@ body {
 	background-position: top;
 	height: 700px;
 	width: 100%;
-}
-.Cuadro a {
-	background: orange;
-	border-radius: 4px 4px 4px 4px;
-	color: #FFF;
-	padding: .7em 4.8em .7em 4.8em;
-	text-decoration: none;
 }
 .Cuadro-celeste {
 	height: 315px;
@@ -101,7 +85,7 @@ body {
 	box-sizing: border-box;
 	height: auto;
 	padding: 2em 0 2em 0;
-	margin: 1em 0 2.5em 0;
+	margin: 0 0 0 0;
 }
 h1 {
 	margin: 0;
@@ -166,22 +150,39 @@ h1 {
 	height: 350px;
 	text-align: center;
 }
-.Pauta-emailMarketing {
-	background-image: url(../images/head-email.jpg);
+.Pauta-autoadmin {
+	background-image: url(../images/head-admin.jpg);
 	background-repeat: no-repeat;
 	background-position: top;
+	border-bottom: solid 1px #DDD;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
   	background-size: cover;
-	height: auto;
-	padding: 4em 0 3em 0;
+	height: 250px;
+	padding: 4em 0 3em 2em;
 }
 .Pauta .Pauta-col1, .Pauta-col2 {
 	display: inline-block;
 	margin: 0 1em 0 1em;
 	vertical-align: top;
 	width: 45%;
+}
+.Pauta-autoadmin h2 {
+	color: #FFF;
+	font-weight: 100;
+	margin: 0 0 .5em 0;
+}
+.Pauta-autoadmin article {
+	background-color: rgba(0,0,0,.4);
+	border-radius: 4px 4px 4px 4px;
+	height: auto;
+	padding: 1.5em 1.5em 1.5em 1.5em;
+	width: 50%;
+}
+.Pauta-autoadmin p {
+	color: #FFF;
+	line-height: 1.8em;
 }
 .Pauta-col1 h2 {
 	color: #FFF;
@@ -255,7 +256,7 @@ h1 {
 }
 .Nombre h1 {
 	color: #FFF;
-	font-family: 'Fredoka One', cursive;
+	font-family: 'Fredoka One', Verdana, Arial, sans-serif;
 	font-size: 1.8em;
 	font-weight: 100;
 }
@@ -312,7 +313,7 @@ h1 {
 	margin: 1em 0 1em 0;
 }
 .Texto-destacado h3 {
-	font-family: 'Fredoka One', cursive;
+	font-family: 'Fredoka One', Verdana, Arial, sans-serif;
 	font-size: 2em;
 	font-weight: 100;
 	margin: 1em 0 0 0;
@@ -625,6 +626,22 @@ h1 {
 	border-radius: 3px 3px 3px 3px;
 	color: #FFF;
 	padding: .7em 3.5em .7em 3.5em;
+	-webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+	text-decoration: none;
+}
+.Mountain-vermas a:hover {
+	background-color: rgba(255,255,255,.5);
+	border: solid 1px #FFF;
+	border-radius: 3px 3px 3px 3px;
+	color: #000;
+	padding: .7em 3.5em .7em 3.5em;
+	-webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
 	text-decoration: none;
 }
 .Texto-destacado a {
@@ -652,8 +669,44 @@ video {
 	width: 100%;
 	margin: -12em 0 0 0;
 }
-	
 
-
-
+.Responsive-glass {
+	border-top: solid 1px #DDD;
+	border-bottom: solid 1px #DDD;
+	overflow: hidden;
+	padding: 3em 0 2.5em 0;
+}
+.Responsive1, .Responsive2 {
+	display: inline-block;
+	height: auto;
+}
+.Responsive1 {
+	margin-left: 3em;
+	margin-top: 1.5em;
+	width: 40%;
+}
+.Responsive1 h2 {
+	font-weight: 100;
+	margin: 1em 0 .5em 0;
+}
+.Responsive1 article p {
+	color: 	grey;
+	font-size: 1em;
+	line-height: 1.8em;
+	margin: 0 0 1em 0;
+}
+.Responsive2 {
+	float: right;
+	margin-right: 5em;
+}
+.Prepago {
+	background-color: #ecf0f1;
+	font-size: 2em;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 100;
+	height: auto;
+	padding: 2em 0 2em 0;
+	text-align: center;
+	width: auto;
+}
 

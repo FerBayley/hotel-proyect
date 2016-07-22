@@ -7,6 +7,7 @@
 	<link href='https://fonts.googleapis.com/css?family=Fredoka+One' rel='stylesheet' type='text/css'>
 	<link href='https://fonts.googleapis.com/css?family=Varela+Round' rel='stylesheet' type='text/css'>
 	<link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" href="public/css/normalize.css" />
 	<link rel="stylesheet" href="public/css/main.css" />
 </head>
@@ -31,7 +32,7 @@
 				<ul>
 					<li><a href="#">NOSOTROS</a></li>
 					<li><a href="#">SERVICIOS</a></li>
-					<li><a href="#">TRABAJA EN 2.C</a></li>
+					<li><a href="#">TRABAJA CON 2.C</a></li>
 					<li><a href="#">CONTACTO</a></li>
 				</ul>
 			</nav> <!--/nav / Navegacion -->
@@ -57,11 +58,6 @@
 			</section> <!--/Botonera -->
 		</header> <!--/header -->
 	</div> <!--/Video-container-->
-
-
-
-
-
 	
 
 
@@ -82,6 +78,40 @@
 			</div> <!--/UnicoPLan -->
 		</a>
 	</section> <!--/Texto-explicacion -->	
+
+
+	<section class="Responsive-glass">
+		<div class="Responsive1">
+			<h2>Tu sitio se adapta a todas las pantallas</h2>
+			<article>
+				<p>
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+					cillum dolore eu fugiat nulla pariatur.
+				</p>
+			</article>
+		</div> <!--/Responsive1 -->
+
+		<div class="Responsive2">
+			<img src="public/images/responsive.jpg">
+		</div> <!--/Responsive2 -->
+	</section> <!--/Responsive-glass -->
+
+	<section class="Pauta-autoadmin">
+		<article>
+			<h2>Autoadministrable</h2>
+				<p>
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+				</p>
+		</article>
+	</section> <!--/Pauta-emailMarketing -->
 
 	<section class="Services">
 		<div class="Services1">
@@ -119,6 +149,18 @@
 				<a href="#">ver mas</a>
 		</div> <!--/Services5 -->
 	</section> <!--/Services -->
+
+	<section class="Prepago">
+		<h2>100% prepago y libre de cambios</h2>
+	</section> <!--/Prepago -->
+
+	<section class="Montain">
+		<h2>Conocé nuestra metodologia de trabajo <span class="Team">#TeamEverest</span></h2>
+		<h3>Codo a codo con nuestro cliente logramos desarrollar el producto perfecto</h3>
+			<div class="Mountain-vermas">
+				<a href="#">CONOCER MAS</a>
+			</div> <!--/Mountain-vermas -->
+	</section> <!--/Montain -->
 
 	<section class="Costumer-profile">
 		<section class="Clientes">
@@ -167,31 +209,6 @@
 			<li><img src="public/images/brand/arquinova.jpg" width="95px" height="89px" alt="Arquinova Color" ></li>
 		</ul>
 	</section> <!--/Muestra-clientes -->
-
-	<section class="Montain">
-		<h2>Conoce nuestra metodologia de trabajo <span class="Team">#TeamEverest</span></h2>
-		<h3>Codo a codo con nuestro cliente logramos desarrollar el producto perfecto</h3>
-			<div class="Mountain-vermas">
-				<a href="#">CONOCER MAS</a>
-			</div> <!--/Mountain-vermas -->
-	</section> <!--/Montain -->
-
-	<section class="Pauta-emailMarketing">
-		<div class="Cuadro">
-			<img src="public/images/email-marketing.png" height="150px" width="150px" alt="Email Marketing" >
-			<article>
-				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-				</p>
-				<a href="#">VER MAS</a>
-			</article>
-		</div> <!--/Cuadro -->
-	</section> <!--/Pauta-emailMarketing -->
 
 	<footer>
 		<section class="Info">
