@@ -150,9 +150,9 @@
 		</div> <!--/Services5 -->
 	</section> <!--/Services -->
 
-	<section class="Prepago">
-		<h2>100% prepago y libre de cambios</h2>
-	</section> <!--/Prepago -->
+		<section class="Prepago">
+			<h2>100% prepago y libre de cambios</h2>
+		</section> <!--/Prepago -->
 
 	<section class="Montain">
 		<h2>Conocé nuestra metodologia de trabajo <span class="Team">#TeamEverest</span></h2>
@@ -161,6 +161,10 @@
 				<a href="#">CONOCER MAS</a>
 			</div> <!--/Mountain-vermas -->
 	</section> <!--/Montain -->
+
+	<section class="Prepago">
+			<h2>100% diseñados y desarrollados a medida</h2>
+		</section> <!--/Prepago -->
 
 	<section class="Costumer-profile">
 		<section class="Clientes">
