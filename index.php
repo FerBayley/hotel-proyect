@@ -8,6 +8,7 @@
 	<link href='https://fonts.googleapis.com/css?family=Varela+Round' rel='stylesheet' type='text/css'>
 	<link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
 	<link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+	<link href="https://fonts.googleapis.com/css?family=Fredoka+One|Open+Sans+Condensed:300|Open+Sans:300" rel="stylesheet">
 	<link rel="stylesheet" href="public/css/normalize.css" />
 	<link rel="stylesheet" href="public/css/main.css" />
 </head>
@@ -16,194 +17,179 @@
 <section class="Contenedor-central">
 
 
-	<div class="Video-container">
-		<video autoplay="true" loop="true" width="1280" height="720" poster="public/video/vidriera/snapshots/video1.jpg">
-			<source src="public/video/vidriera/mp4/video1.mp4" type="video/mp4" />
-            <source src="public/video/vidriera/webm/video1.webm" type="video/webm" />
-		</video>
+	<header class="Header">
+		<div class="Header-logo">
+			<h1><span class="Celeste">2</span>.PuntoClick</h1>
+			<h2>WEB PRODUCTS DESIGNERS</h2>
+		</div> <!--/Nombre -->
 
-		<header>
-			<div class="Nombre">
-				<h1>2PuntoClick</h1>
-				<h2>WEB PRODUCTS DESIGNERS</h2>
-			</div> <!--/Nombre -->
+		<nav class="Header-navegacion">
+			<ul>
+				<li><a href="#">INICIO</a></li>
+				<li><a href="#">NOSOTROS</a></li>
+				<li><a href="#">SERVICIOS</a></li>
+				<li><a href="#">TRABAJA CON 2.C</a></li>
+				<li><a href="#">PRENSA</a></li>
+				<li><a href="#">CONTACTO</a></li>
+			</ul>
+		</nav> <!--/ Header-navegacion -->
+	</header> <!-- / header -->
 
-			<nav class="Navegacion">
-				<ul>
-					<li><a href="#">NOSOTROS</a></li>
-					<li><a href="#">SERVICIOS</a></li>
-					<li><a href="#">TRABAJA CON 2.C</a></li>
-					<li><a href="#">CONTACTO</a></li>
-				</ul>
-			</nav> <!--/nav / Navegacion -->
 
-			<div class="Texto-destacado">
+	<section class="Copy">
+			<div class="Copy-destacado">
 				<p>Tu unidad de negocios en internet</p>
 				<h2><a href="#">Pensamos</a> | <a href="#">Diseñamos</a> | <a href="#">Desarrollomos</a> | <a href="#">Alojamos</a> | <a href="#">Medimos y analizamos tu empresa en la web</a> | <a href="#">+ Soporte tecnico</a></h2>
 				<h3>A solo ar$990 x mes</h3>
 			</div> <!--/Texto-destacado -->
 
-			<section class="Botonera">
+			<section class="Copy-botonera">
 				<a href="#">
-					<div class="Btn1">
+					<div class="Copy-bt1">
 						CONTACTANOS
-					</div> <!--/Btn1 -->
+					</div> <!--/ Copy-bt1 -->
 				</a>
-
 				<a href="#">
-					<div class="Btn2">
+					<div class="Copy-bt2">
 						CONTRATAR
-					</div> <!--/Btn2 -->
+					</div> <!--/ Copy-bt2 -->
 				</a>
-			</section> <!--/Botonera -->
-		</header> <!--/header -->
-	</div> <!--/Video-container-->
-	
+			</section> <!--/ Copy-botonera -->
+	</section> <!-- / Copy -->
 
 
-	<section class="Texto-explicacion">
-		<article>
+
+
+	<section class="Explicacion">
+		<article class="Explicacion-texto">
 			<p>
-				Somos un grupo de profesionales entrenados en las artes del <span class="Resaltado">diseño y el desarrollo web</span>, con años de experiencia en la industria. 
-			</p>
-			<p>
-				Pensando, diseñanado y desarrollando sitios web que <span class="Resaltado">funcionan, escalan y se pueden medir</span>, logrando que el cliente tenga una verdadera unidad de negocios en linea, que le permita <span class="Resaltado">incrementar sus ventas, fidelizar a sus clientes y lograr un posicionar mejor su marca.
+				Somos un grupo de profesionales entrenados en las artes del <span class="Resaltado">diseño y el desarrollo web</span>, con mas de 15 años de experiencia en la industria. 
+				Pensando, diseñanado y desarrollando sitios web que <span class="Resaltado">funcionan, escalan y se pueden medir</span>, logrando que el cliente tenga una verdadera unidad de negocios en linea, que le permita <span class="Resaltado">incrementar sus ventas, fidelizar a sus clientes y lograr posicionar mejor su marca.
 				</span>
 			</p>
-		</article>
+		</article> <!-- / Explicacion-texto -->
 
-		<a href="">
-			<div class="UnicoPLan">
-				<p>En un unico plan todos los servicios - VER MAS</p>
+			<div class="Explicacion-boton">
+				<a href="#">
+					<p>EN UN UNICO PLAN TODOS LOS SERVICIOS - VER MAS</p>
+				</a>
 			</div> <!--/UnicoPLan -->
-		</a>
-	</section> <!--/Texto-explicacion -->	
+	</section> <!--/ Explicacion -->
 
 
-	<section class="Responsive-glass">
-		<div class="Responsive1">
-			<h2>Tu sitio se adapta a todas las pantallas</h2>
-			<article>
-				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-					cillum dolore eu fugiat nulla pariatur.
-				</p>
-			</article>
-		</div> <!--/Responsive1 -->
+	<section class="Puntos">
+		<div class="Puntos-col1">
+			<img src="public/images/autogestion.png" width="180px" height="180px" alt="Autogestionable">
+			<h2>Autogestinable</h2>
+		</div> <!-- / Puntos-col1 -->
 
-		<div class="Responsive2">
-			<img src="public/images/responsive.jpg">
-		</div> <!--/Responsive2 -->
-	</section> <!--/Responsive-glass -->
+		<div class="Puntos-col2">
+			<img src="public/images/responsive.png" width="180px" height="180px" alt="Diseño Responsive">
+			<h2>Diseño Responsivo</h2>
+		</div> <!-- / Puntos-col2 -->
 
-	<section class="Pauta-autoadmin">
-		<article>
-			<h2>Autoadministrable</h2>
-				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-				</p>
-		</article>
-	</section> <!--/Pauta-emailMarketing -->
+		<div class="Puntos-col3">
+			<img src="public/images/consultoria.png" width="180px" height="180px" alt="Consultoria web">
+			<h2>Metricas y consultoria</h2>
+		</div> <!-- / Puntos-col3 -->
+
+		<div class="Puntos-col4">
+			<img src="public/images/soporte.png" width="180px" height="180px" alt="Soporte tecnico">
+			<h2>Soporte tecnico</h2>
+		</div> <!-- / Puntos-col3 -->
+	</section> <!-- / Puntos -->
+
+	<section class="Prepago">
+			<h2 class="Prepago-titulo">100% prepago y libre de cambios</h2>
+		</section> <!--/Prepago -->
 
 	<section class="Services">
-		<div class="Services1">
-			<h2>Diseño y desarrollo</h2>
+		<div class="Services-1">
 			<img src="public/images/dev-dis.png" width="170px" height="170px" alt="Diseño y desarrollo">
-			<br>
-				<a href="#">ver mas</a>
+			<h2>Diseño y desarrollo</h2>
 		</div> <!--/Services1 -->
 
-		<div class="Services2">
-			<h2>Alojamiento</h2>
+		<div class="Services-2">
 			<img src="public/images/alojamiento.png" width="170px" height="170px" alt="Alojamiento web">
-			<br>
-				<a href="#">ver mas</a>
+			<h2>Alojamiento</h2>
 		</div> <!--/Services2 -->
 
-		<div class="Services3">
+		<div class="Services-3">
+			<img src="public/images/consultoria.png" width="170px" height="170px" alt="Metricas y consultoria">
 			<h2>Metricas</h2>
-			<img src="public/images/medimos.png" width="170px" height="170px" alt="Metricas y consultoria">
-			<br>
-				<a href="#">ver mas</a>
 		</div> <!--/Services3 -->
 
-		<div class="Services4">
-			<h2>Soporte</h2>
+		<div class="Services-4">
 			<img src="public/images/soporte.png" width="170px" height="170px" alt="Soporte tecnico">
-			<br>
-				<a href="#">ver mas</a>
+			<h2>Soporte</h2>
 		</div> <!--/Services4 -->
 
-		<div class="Services5">
-			<h2>UpGrade</h2>
+		<div class="Services-5">
 			<img src="public/images/rocket.png" width="170px" height="170px" alt="Upgrade de servicios">
-			<br>
-				<a href="#">ver mas</a>
+			<h2>UpGrade</h2>
 		</div> <!--/Services5 -->
 	</section> <!--/Services -->
 
-		<section class="Prepago">
-			<h2>100% prepago y libre de cambios</h2>
-		</section> <!--/Prepago -->
 
-	<section class="Montain">
-		<h2>Conocé nuestra metodologia de trabajo <span class="Team">#TeamEverest</span></h2>
-		<h3>Codo a codo con nuestro cliente logramos desarrollar el producto perfecto</h3>
+	<section class="Metodoogia">
+		<h2 class="Metodologia-titulo">
+			Conocé nuestra metodologia de trabajo <span class="Team">#TeamEverest</span>
+		</h2>
+		<h3 class="Metodologia-subtitulo">
+			Codo a codo con nuestro cliente logramos desarrollar el producto perfecto
+		</h3>
 			<div class="Mountain-vermas">
 				<a href="#">CONOCER MAS</a>
 			</div> <!--/Mountain-vermas -->
-	</section> <!--/Montain -->
+	</section> <!--/ Metodologia -->
 
-	<section class="Prepago">
-			<h2>100% diseñados y desarrollados a medida</h2>
-		</section> <!--/Prepago -->
 
-	<section class="Costumer-profile">
-		<section class="Clientes">
-			<div class="Clientes1">
-				<figure><img src="public/images/profile/flabia.jpg" width="140px" height="140px" alt="Flabia Vit" /></figure>
-				<h2>Lic.Flabia Vit</h2>
+
+	<section class="Desarrollo">
+		<h2 class="Desarrollo-titulo">100% diseñados y desarrollados a medida</h2>
+	</section> <!--/Prepago -->
+
+
+
+	<section class="Clientes">
+		<div class="Clientes-1">
+			<img src="public/images/profile/flabia.jpg" width="140px" height="140px" alt="Flabia Vit" />
+				<h2 class="Clientes-titulo">Lic.Flabia Vit</h2>
 				<a href="mailto:info@flabiavit.com.ar">info@flabiavit.com.ar</a>
-					<article>
-						<p>
+					<article class="Clientes-article">
+						<p class="Clientes-texto">
 							"Desde hace mas de 10 años trabajamos con la agencia en todos nuestros productos para la web, en este tiempo tuvimos importantes resultados que llevaron a otro nivel nuestra relacion con los pacientes."
 						</p>
 					</article>
-			</div> <!--/Clientes1 -->
+		</div> <!--/ Clientes-1 -->
 
-			<div class="Clientes2">
-				<figure><img src="public/images/profile/juana.png" width="140px" height="140px" alt="Kike" /></figure>
-				<h2>Quique Geisele</h2>
+		<div class="Clientes-2">
+			<img src="public/images/profile/juana.png" width="140px" height="140px" alt="Kike" />
+				<h2 class="Clientes-titulo">Quique Geisele</h2>
 				<a href="mailto:info@juanam.com">info@juanam.com</a>
-					<article>
-						<p>
+					<article class="Clientes-article">
+						<p class="Clientes-texto">
 							"Dia a dia tenemos gran cantidad de reservas a traves de nuestro web site, logrando una gran base de comensales, los cuales contactamos mes a mes con beneficios exclusivos desde nuestro news letter."
 						</p>
 					</article>
-			</div> <!--/Clientes2 -->
+			</div> <!--/ Clientes-2 -->
 
-			<div class="Clientes3">
-				<figure><img src="public/images/profile/arqui.png" width="140px" height="140px" alt="Mariano Perez" /></figure>
-				<h2>Mariano Perez</h2>
-				<a href="mailto:marianop@arquinovacolor.com.ar">marianop@arquinovacolor.com.ar</a>
-					<article>
-						<p>
-							"Nuestro mayor feature es nuestro chat, nos conecta al instante con nuestros clientes y lo mejor de todo, con nuestros nuevos clientes, una simple idea nos hizo posicionarnos mejor que la competencia."
+		<div class="Clientes-3">
+			<img src="public/images/profile/arqui.png" width="140px" height="140px" alt="Mariano Perez" />
+			<h2 class="Clientes-titulo">Mariano Perez</h2>
+			<a href="mailto:marianop@arquinovacolor.com.ar">marianop@arquinovacolor.com.ar</a>
+				<article class="Clientes-article">
+					<p lass="Clientes-texto">
+						"Nuestro mayor feature es nuestro chat, nos conecta al instante con nuestros clientes y lo mejor de todo, con nuestros nuevos clientes, una simple idea nos hizo posicionarnos mejor que la competencia."
 						</p>
-					</article>
-			</div> <!--/Clientes3 -->
-		</section> <!--/Clientes -->
-	</section> <!--/Costumer-profile -->
+				</article>
+			</div> <!--/Clientes-3 -->
+	</section> <!--/ Clientes -->
 
-	<section class="Muestra-clientes">
+
+
+
+	<section class="Marcas">
 		<ul>
 			<li><img src="public/images/brand/jonnie.jpg" width="144px" height="85px" alt="Johnnie Walker" ></li>
 			<li><img src="public/images/brand/juana.jpg" width="180px" height="66px" alt="Juana M Restoran" ></li>
@@ -212,7 +198,7 @@
 			<li><img src="public/images/brand/placcos.jpg" alt="Placcos Muebles a medida" ></li>
 			<li><img src="public/images/brand/arquinova.jpg" width="95px" height="89px" alt="Arquinova Color" ></li>
 		</ul>
-	</section> <!--/Muestra-clientes -->
+	</section> <!--/ Marcas -->
 
 	<footer>
 		<section class="Info">
