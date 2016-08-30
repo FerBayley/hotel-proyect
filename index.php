@@ -100,7 +100,7 @@
 	</section> <!-- / Puntos -->
 
 	<section class="Prepago">
-			<h2 class="Prepago-titulo">100% prepago y libre de cambios</h2>
+			<h2 class="Prepago-titulo">100% prepago y libre de cambios, rapido y facil.</h2>
 		</section> <!--/Prepago -->
 
 	<section class="Services">
@@ -131,7 +131,7 @@
 	</section> <!--/Services -->
 
 
-	<section class="Metodoogia">
+	<section class="Metodologia">
 		<h2 class="Metodologia-titulo">
 			Conocé nuestra metodologia de trabajo <span class="Team">#TeamEverest</span>
 		</h2>
@@ -139,7 +139,7 @@
 			Codo a codo con nuestro cliente logramos desarrollar el producto perfecto
 		</h3>
 			<div class="Mountain-vermas">
-				<a href="#">CONOCER MAS</a>
+				<a href="#">CONOCE NUESTRO SISTEMA</a>
 			</div> <!--/Mountain-vermas -->
 	</section> <!--/ Metodologia -->
 
@@ -190,15 +190,34 @@
 
 
 	<section class="Marcas">
-		<ul>
-			<li><img src="public/images/brand/jonnie.jpg" width="144px" height="85px" alt="Johnnie Walker" ></li>
-			<li><img src="public/images/brand/juana.jpg" width="180px" height="66px" alt="Juana M Restoran" ></li>
-			<li><img src="public/images/brand/inoxigas.jpg" width="130px" height="116px" alt="Inoxigas Argentina" ></li>
-			<li><img src="public/images/brand/ingloba.jpg" alt="Ingloba Web" ></li>
-			<li><img src="public/images/brand/placcos.jpg" alt="Placcos Muebles a medida" ></li>
-			<li><img src="public/images/brand/arquinova.jpg" width="95px" height="89px" alt="Arquinova Color" ></li>
-		</ul>
+		<div class="Marcas-1">
+			<img src="public/images/brand/jonnie.jpg" width="240px" height="162px" alt="Jonnie Walker">
+			<p>ARGENTINA</p>
+			<img src="public/images/brand/placcos.jpg" width="240px" height="162px" alt="Placoss">
+			<p>ARGENTINA</p>
+		</div> <!-- / Marcas-1 -->
+		<div class="Marcas-2">
+			<img src="public/images/brand/juana.jpg" width="248px" height="162px" alt="JuanaM Restoran">
+			<p>ARGENTINA</p>
+			<img src="public/images/brand/arquinova.jpg" width="248px" height="162px" alt="Arquinova Color">
+			<p>ARGENTINA</p>
+		</div> <!-- / Marcas-2 -->
+		<div class="Marcas-3">
+			<img src="public/images/brand/inoxigas.jpg" width="248px" height="162px" alt="Inoxigas">
+			<p>ARGENTINA</p>
+			<img src="public/images/brand/best.jpg" width="248px" height="162px" alt="Best Beach">
+			<p>URUGUAY</p>
+		</div> <!-- / Marcas-3 -->
+		<div class="Marcas-4">
+			<img src="public/images/brand/ingloba.jpg" width="248px" height="162px" alt="Ingloba Web">
+			<p>MEXICO</p>
+			<img src="public/images/brand/lester.jpg" width="248px" height="162px" alt="Cerveza Lester">
+			<p>ARGENTINA</p>
+		</div> <!-- / Marcas-4 -->
 	</section> <!--/ Marcas -->
+
+
+
 
 	<footer>
 		<section class="Info">
