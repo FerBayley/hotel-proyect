@@ -220,13 +220,13 @@
 
 
 	<footer>
-		<section class="Info">
-			<article>
+		<section class="Footer">
+			<article class="Footer-article">
 				<p>&copy; 2PuntoClick.com │ Todos los derechos reservados 2016.</p>
 				<p><a href="#">contacto@dospunbtoclick.com</a> │ <a href="#">Terminos y condiciones del servicio</a> │ <a href="#">Legales</a></p> 
 				<p>Buenos Aires - Republica Argentina</p> 
-			</article>
-		</section> <!--/Info -->
+			</article> <!-- / Footer-article -->
+		</section> <!--/ Footer-info -->
 
 		<section class="Redes">
 			<ul>
@@ -234,13 +234,13 @@
 				<li><a href="#"><img src="public/images/twitter.png" width="40px" height="40px" alt="Twitter"></a></li>
 				<li><a href="#"><img src="public/images/instagram.png" width="40px" height="40px" alt="Instagram"></a></li>
 			</ul>
-		</section> <!--/ Redes -->
-	</footer> <!--/Footer -->
+		</section> <!--/ Redes-->
+	</footer> <!--/ Footer-redes -->
 
-	<section class="Loving-footer">
-		<ul>
-			<li>Dedicado a Raúl Marengo</li>
+	<section class="Loving">
+		<ul class="Loving-lista">
 			<li><img src="public/images/heart.png" width="20px" height="20px" alt="Corazon"></li>
+			<li>Dedicado a Raúl Marengo</li>
 		</ul>
 	</section> <!--/Loving-footer -->
 
