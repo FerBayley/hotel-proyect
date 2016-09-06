@@ -239,7 +239,7 @@
 
 	<section class="Loving">
 		<ul class="Loving-lista">
-			<li><img src="public/images/heart.png" width="20px" height="20px" alt="Corazon"></li>
+			<li><img src="public/images/heart.png" width="15px" height="15px" alt="Corazon"></li>
 			<li>Dedicado a Raúl Marengo</li>
 		</ul>
 	</section> <!--/Loving-footer -->
