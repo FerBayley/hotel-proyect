@@ -216,9 +216,6 @@
 		</div> <!-- / Marcas-4 -->
 	</section> <!--/ Marcas -->
 
-
-
-
 	<footer>
 		<section class="Footer">
 			<article class="Footer-article">
@@ -230,9 +227,9 @@
 
 		<section class="Redes">
 			<ul>
-				<li><a href="#"><img src="public/images/facebook.png" width="40px" height="40px" alt="Facebook"></a></li>
-				<li><a href="#"><img src="public/images/twitter.png" width="40px" height="40px" alt="Twitter"></a></li>
-				<li><a href="#"><img src="public/images/instagram.png" width="40px" height="40px" alt="Instagram"></a></li>
+				<li><a href="#"><img src="public/images/facebook.png" width="25px" height="25px" alt="Facebook"></a></li>
+				<li><a href="#"><img src="public/images/twitter.png" width="25px" height="25px" alt="Twitter"></a></li>
+				<li><a href="#"><img src="public/images/instagram.png" width="25px" height="25px" alt="Instagram"></a></li>
 			</ul>
 		</section> <!--/ Redes-->
 	</footer> <!--/ Footer-redes -->
