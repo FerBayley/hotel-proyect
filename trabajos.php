@@ -18,9 +18,11 @@
 
 	<?php include("includes/header.php"); ?>
 
-	<section class="Contenedor">
-		<h2 class="Contenedor-titulo">Trabajos</h2>
+	<!--<section class="Contenedor">
+		<h2 class="Contenedor-titulo">Algunos de nuestros trabajos realizados</h2>
 	</section> <!-- / Contenedor -->
+
+	<?php include("includes/marcas.php"); ?>
 
 	<?php include("includes/footer.php"); ?>
 
