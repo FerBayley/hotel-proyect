@@ -16,30 +16,12 @@
 
 <section class="Contenedor-central">
 
-
-	<header class="Header">
-		<div class="Header-logo">
-			<h1><span class="Celeste">2</span>.PuntoClick</h1>
-			<h2>WEB PRODUCTS DESIGNERS</h2>
-		</div> <!--/Nombre -->
-
-		<nav class="Header-navegacion">
-			<ul>
-				<li><a href="#">INICIO</a></li>
-				<li><a href="#">NOSOTROS</a></li>
-				<li><a href="#">SERVICIOS</a></li>
-				<li><a href="#">TRABAJA CON 2.C</a></li>
-				<li><a href="#">PRENSA</a></li>
-				<li><a href="#">CONTACTO</a></li>
-			</ul>
-		</nav> <!--/ Header-navegacion -->
-	</header> <!-- / header -->
-
+	<?php include("includes/header.php"); ?>
 
 	<section class="Copy">
 			<div class="Copy-destacado">
 				<p>Tu unidad de negocios en internet</p>
-				<h2><a href="#">Pensamos</a> | <a href="#">Diseñamos</a> | <a href="#">Desarrollomos</a> | <a href="#">Alojamos</a> | <a href="#">Medimos y analizamos tu empresa en la web</a> | <a href="#">+ Soporte tecnico</a></h2>
+				<h2><a href="pensamos.php">Pensamos</a> | <a href="disenamos.php">Diseñamos</a> | <a href="desarrollamos.php">Desarrollomos</a> | <a href="alojamos.php">Alojamos</a> | <a href="consultoria.php">Medimos y analizamos tu empresa en la web</a> | <a href="soporte-tecnico.php">+ Soporte tecnico</a></h2>
 				<h3>A solo ar$990 x mes</h3>
 			</div> <!--/Texto-destacado -->
 
@@ -57,9 +39,6 @@
 			</section> <!--/ Copy-botonera -->
 	</section> <!-- / Copy -->
 
-
-
-
 	<section class="Explicacion">
 		<article class="Explicacion-texto">
 			<p>
@@ -69,32 +48,31 @@
 			</p>
 		</article> <!-- / Explicacion-texto -->
 
+		<a href="#">
 			<div class="Explicacion-boton">
-				<a href="#">
-					<p>EN UN UNICO PLAN TODOS LOS SERVICIOS - VER MAS</p>
-				</a>
+				<p>EN UN UNICO PLAN TODOS LOS SERVICIOS - VER MAS</p>
 			</div> <!--/UnicoPLan -->
+		</a>
 	</section> <!--/ Explicacion -->
-
 
 	<section class="Puntos">
 		<div class="Puntos-col1">
-			<img src="public/images/autogestion.png" width="180px" height="180px" alt="Autogestionable">
-			<h2>Autogestinable</h2>
+			<img src="public/images/autogestion.png" width="150px" height="150px" alt="Autogestionable">
+			<h2>Autoadministrable</h2>
 		</div> <!-- / Puntos-col1 -->
 
 		<div class="Puntos-col2">
-			<img src="public/images/responsive.png" width="180px" height="180px" alt="Diseño Responsive">
+			<img src="public/images/responsive.png" width="150px" height="150px" alt="Diseño Responsive">
 			<h2>Diseño Responsivo</h2>
 		</div> <!-- / Puntos-col2 -->
 
 		<div class="Puntos-col3">
-			<img src="public/images/consultoria.png" width="180px" height="180px" alt="Consultoria web">
+			<img src="public/images/consultoria.png" width="150px" height="150px" alt="Consultoria web">
 			<h2>Metricas y consultoria</h2>
 		</div> <!-- / Puntos-col3 -->
 
 		<div class="Puntos-col4">
-			<img src="public/images/soporte.png" width="180px" height="180px" alt="Soporte tecnico">
+			<img src="public/images/soporte.png" width="150px" height="150px" alt="Soporte tecnico">
 			<h2>Soporte tecnico</h2>
 		</div> <!-- / Puntos-col3 -->
 	</section> <!-- / Puntos -->
@@ -105,31 +83,30 @@
 
 	<section class="Services">
 		<div class="Services-1">
-			<img src="public/images/dev-dis.png" width="170px" height="170px" alt="Diseño y desarrollo">
+			<img src="public/images/dev-dis.png" width="140px" height="140px" alt="Diseño y desarrollo">
 			<h2>Diseño y desarrollo</h2>
 		</div> <!--/Services1 -->
 
 		<div class="Services-2">
-			<img src="public/images/alojamiento.png" width="170px" height="170px" alt="Alojamiento web">
+			<img src="public/images/alojamiento.png" width="140px" height="140px" alt="Alojamiento web">
 			<h2>Alojamiento</h2>
 		</div> <!--/Services2 -->
 
 		<div class="Services-3">
-			<img src="public/images/consultoria.png" width="170px" height="170px" alt="Metricas y consultoria">
+			<img src="public/images/consultoria.png" width="140px" height="140px" alt="Metricas y consultoria">
 			<h2>Metricas</h2>
 		</div> <!--/Services3 -->
 
 		<div class="Services-4">
-			<img src="public/images/soporte.png" width="170px" height="170px" alt="Soporte tecnico">
+			<img src="public/images/soporte.png" width="140px" height="140px" alt="Soporte tecnico">
 			<h2>Soporte</h2>
 		</div> <!--/Services4 -->
 
 		<div class="Services-5">
-			<img src="public/images/rocket.png" width="170px" height="170px" alt="Upgrade de servicios">
+			<img src="public/images/rocket.png" width="140px" height="140px" alt="Upgrade de servicios">
 			<h2>UpGrade</h2>
 		</div> <!--/Services5 -->
 	</section> <!--/Services -->
-
 
 	<section class="Metodologia">
 		<h2 class="Metodologia-titulo">
@@ -143,13 +120,9 @@
 			</div> <!--/Mountain-vermas -->
 	</section> <!--/ Metodologia -->
 
-
-
 	<section class="Desarrollo">
 		<h2 class="Desarrollo-titulo">100% diseñados y desarrollados a medida</h2>
 	</section> <!--/Prepago -->
-
-
 
 	<section class="Clientes">
 		<div class="Clientes-1">
@@ -186,9 +159,6 @@
 			</div> <!--/Clientes-3 -->
 	</section> <!--/ Clientes -->
 
-
-
-
 	<section class="Marcas">
 		<div class="Marcas-1">
 			<img src="public/images/brand/jonnie.jpg" width="240px" height="162px" alt="Jonnie Walker">
@@ -216,30 +186,7 @@
 		</div> <!-- / Marcas-4 -->
 	</section> <!--/ Marcas -->
 
-	<footer>
-		<section class="Footer">
-			<article class="Footer-article">
-				<p>&copy; 2PuntoClick.com │ Todos los derechos reservados 2016.</p>
-				<p><a href="#">contacto@dospunbtoclick.com</a> │ <a href="#">Terminos y condiciones del servicio</a> │ <a href="#">Legales</a></p> 
-				<p>Buenos Aires - Republica Argentina</p> 
-			</article> <!-- / Footer-article -->
-		</section> <!--/ Footer-info -->
-
-		<section class="Redes">
-			<ul>
-				<li><a href="#"><img src="public/images/facebook.png" width="25px" height="25px" alt="Facebook"></a></li>
-				<li><a href="#"><img src="public/images/twitter.png" width="25px" height="25px" alt="Twitter"></a></li>
-				<li><a href="#"><img src="public/images/instagram.png" width="25px" height="25px" alt="Instagram"></a></li>
-			</ul>
-		</section> <!--/ Redes-->
-	</footer> <!--/ Footer-redes -->
-
-	<section class="Loving">
-		<ul class="Loving-lista">
-			<li><img src="public/images/heart.png" width="15px" height="15px" alt="Corazon"></li>
-			<li>Dedicado a Raúl Marengo</li>
-		</ul>
-	</section> <!--/Loving-footer -->
+	<?php include("includes/footer.php"); ?>
 
 </section> <!--/Contenedor-central-->
 
