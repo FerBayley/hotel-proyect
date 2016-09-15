@@ -2,7 +2,10 @@
 <html>
 <meta charset="utf-8">
 <head>
-	<title>DosPuntoClick - Diseño y desarrollo web prepago</title>
+	<title>DosPuntoClick Diseño y desarrollo web prepago - Diseño y desarrollo web prepago</title>
+	<!-- VIEWPORT -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
+	<!-- VIEWPORT -->
 	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
 	<link href='https://fonts.googleapis.com/css?family=Fredoka+One' rel='stylesheet' type='text/css'>
 	<link href='https://fonts.googleapis.com/css?family=Varela+Round' rel='stylesheet' type='text/css'>
@@ -128,7 +131,7 @@
 		<div class="Clientes-1">
 			<img src="public/images/profile/flabia.jpg" width="140px" height="140px" alt="Flabia Vit" />
 				<h2 class="Clientes-titulo">Lic.Flabia Vit</h2>
-				<a href="mailto:info@flabiavit.com.ar">info@flabiavit.com.ar</a>
+				<a href="http://www.flabiavit.com.ar" target="_blank">www.flabiavit.com.ar</a>
 					<article class="Clientes-article">
 						<p class="Clientes-texto">
 							"Desde hace mas de 10 años trabajamos con la agencia en todos nuestros productos para la web, en este tiempo tuvimos importantes resultados que llevaron a otro nivel nuestra relacion con los pacientes."
@@ -139,7 +142,7 @@
 		<div class="Clientes-2">
 			<img src="public/images/profile/juana.png" width="140px" height="140px" alt="Kike" />
 				<h2 class="Clientes-titulo">Quique Geisele</h2>
-				<a href="mailto:info@juanam.com">info@juanam.com</a>
+				<a href="http://www.juanam.com" target="_blank">www.juanam.com</a>
 					<article class="Clientes-article">
 						<p class="Clientes-texto">
 							"Dia a dia tenemos gran cantidad de reservas a traves de nuestro web site, logrando una gran base de comensales, los cuales contactamos mes a mes con beneficios exclusivos desde nuestro news letter."
@@ -150,7 +153,7 @@
 		<div class="Clientes-3">
 			<img src="public/images/profile/arqui.png" width="140px" height="140px" alt="Mariano Perez" />
 			<h2 class="Clientes-titulo">Mariano Perez</h2>
-			<a href="mailto:marianop@arquinovacolor.com.ar">marianop@arquinovacolor.com.ar</a>
+			<a href="http://www.arquinovacolor.com.ar" target="_blanck">www.arquinovacolor.com.ar</a>
 				<article class="Clientes-article">
 					<p lass="Clientes-texto">
 						"Nuestro mayor feature es nuestro chat, nos conecta al instante con nuestros clientes y lo mejor de todo, con nuestros nuevos clientes, una simple idea nos hizo posicionarnos mejor que la competencia."
@@ -160,10 +163,10 @@
 	</section> <!--/ Clientes -->
 
 	<?php include("includes/marcas-home.php"); ?>
-
 	<?php include("includes/footer.php"); ?>
-
 </section> <!--/Contenedor-central-->
 
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js"></script>
+	<script src="public/js/script.js"></script>
 </body>
 </html>

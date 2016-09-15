@@ -2,7 +2,8 @@
 <html>
 <meta charset="utf-8">
 <head>
-	<title>DosPuntoClick - Trabaja con 2.C</title>
+	<title>DosPuntoClick Diseño y desarrollo web prepago - Trabaja con 2.C</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
 	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
 	<link href='https://fonts.googleapis.com/css?family=Fredoka+One' rel='stylesheet' type='text/css'>
 	<link href='https://fonts.googleapis.com/css?family=Varela+Round' rel='stylesheet' type='text/css'>
@@ -28,5 +29,6 @@
 
 </section> <!--/Contenedor-central-->
 
+<script src="public/js/script.js"></script>
 </body>
 </html>
