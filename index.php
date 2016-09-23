@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="es-AR">
 <meta charset="utf-8">
 <head>
 	<title>DosPuntoClick Diseño y desarrollo web prepago - Diseño y desarrollo web prepago</title>
@@ -18,13 +18,11 @@
 <body>
 
 <section class="Contenedor-central">
-
 	<?php include("includes/header.php"); ?>
-
 	<section class="Copy">
 			<div class="Copy-destacado">
 				<p>Tu unidad de negocios en internet</p>
-				<h2><a href="pensamos.php">Pensamos</a> | <a href="disenamos.php">Diseñamos</a> | <a href="desarrollamos.php">Desarrollomos</a> | <a href="alojamos.php">Alojamos</a> | <a href="consultoria.php">Medimos y analizamos tu empresa en la web</a> | <a href="soporte-tecnico.php">+ Soporte tecnico</a></h2>
+				<h2>Pensamos, diseñamos, desarrollomos, alojamos, medimos y analizamos tu empresa en la web + soporte tecnico</h2>
 				<h3>A solo ar$990 x mes</h3>
 			</div> <!--/Texto-destacado -->
 
@@ -33,12 +31,7 @@
 					<div class="Copy-bt1">
 						CONTACTANOS
 					</div> <!--/ Copy-bt1 -->
-				</a>
-				<a href="#">
-					<div class="Copy-bt2">
-						CONTRATAR
-					</div> <!--/ Copy-bt2 -->
-				</a>
+                </a>
 			</section> <!--/ Copy-botonera -->
 	</section> <!-- / Copy -->
 

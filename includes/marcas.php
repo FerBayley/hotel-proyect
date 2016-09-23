@@ -1,5 +1,4 @@
 <section class="Marcas Top">
-	<h2 class="Trabajos-realizados">Algunos de los trabajos que realizamos</h2>
 	<div class="Marcas-1">
 		<img src="public/images/brand/jonnie.jpg" width="240px" height="162px" alt="Jonnie Walker">
 		<p>ARGENTINA</p>

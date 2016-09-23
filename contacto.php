@@ -16,11 +16,7 @@
 <body>
 
 <section class="Contenedor-central">
-	<?php include("includes/header.php"); ?>	
-	<section class="Contenedor">
-		<h2 class="Contenedor-titulo">Contactanos</h2>
-		<h3 class="Contenedor-subtitulo">En caso que tengas alguna urgencia hace click en este enlace <a href="#">URGENCIAS</a></h3>
-	</section> <!-- / Contenedor -->
+	<?php include("includes/header.php"); ?>
 
 	<section class="Mapa">
 		<div class="Cont">
