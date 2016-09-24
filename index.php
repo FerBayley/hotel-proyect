@@ -27,7 +27,7 @@
 			</div> <!--/Texto-destacado -->
 
 			<section class="Copy-botonera">
-				<a href="#">
+				<a href="contacto.php">
 					<div class="Copy-bt1">
 						CONTACTANOS
 					</div> <!--/ Copy-bt1 -->
@@ -74,7 +74,7 @@
 	</section> <!-- / Puntos -->
 
 	<section class="Prepago">
-			<h2 class="Prepago-titulo">100% prepago y libre de cambios, rapido y facil.</h2>
+			<h2 class="Prepago-titulo">100% PREPAGO Y LIBRE DE CAMBIOS, RAPIDO Y FACIL.</h2>
 		</section> <!--/Prepago -->
 
 	<section class="Services">
@@ -117,7 +117,7 @@
 	</section> <!--/ Metodologia -->
 
 	<section class="Desarrollo">
-		<h2 class="Desarrollo-titulo">100% diseñados y desarrollados a medida</h2>
+		<h2 class="Desarrollo-titulo">100% DISENADOS Y DESARROLLADO A MEDIDA</h2>
 	</section> <!--/Prepago -->
 
 	<section class="Clientes">

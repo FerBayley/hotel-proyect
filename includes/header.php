@@ -1,5 +1,6 @@
 <header class="Header">
-	<div class="Header-logo">
+	<div class="Fixed">
+		<div class="Header-logo">
 		<h1><span class="Celeste">2</span>.PuntoClick</h1>
 		<h2>WEB PRODUCTS DESIGNERS</h2>
 		<div class="MenuCircular">
@@ -19,4 +20,5 @@
 			<li><a href="contacto.php">CONTACTO</a></li>
 		</ul>
 	</nav> <!--/ Header-navegacion -->
+	</div> <!-- / Fixed -->
 </header> <!-- / header -->

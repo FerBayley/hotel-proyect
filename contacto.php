@@ -20,11 +20,27 @@
 
 	<section class="Mapa">
 		<div class="Cont">
-			<p><span class="Datos">Telefono:</span> 15486868778687687</p>
-			<p><span class="Datos">Email:</span> contacto@dospuntoclick.com</p>
-			<p><span class="Datos">Watsapp:</span> 1762876827632</p>
-			<p><span class="Datos">Skype:</span> 2.Click</p>
-		</div> <!-- / Cont -->
+		    <div class="Formulario">
+		        <form action="enviar.php" method="post">
+		            <h2>CONTACTO</h2>
+		            <input type="text" name="nombre" placeholder="Nombre" required>
+  		            <input type="text" name="telefono" placeholder="Telefono" required>
+		            <input type="text" name="email" placeholder="Email" required>
+		            <textarea name="mensaje" placeholder="Escribir mensaje"></textarea>
+		            <input type="submit" value="ENVIAR" id="boton">
+		        </form>
+		    </div> <!-- / Formulario -->
+
+		    <div class="QueresUnSitio">
+		    	<h2 class="QueresUnSitio-titulo">Queres un sitio web increible!!!</h2>
+		    	<article class="QueresUnSitio-article">
+		    		<p class="QueresUnSitio-texto">
+		    			Estas a punto de tener un sitio web totalmente a medida, escalable y que se adaptan a todas las resoluciones y dispositivos moviles.
+		    		</p>
+		    	</article>
+		    </div> <!-- / QueresUnSitio -->
+		</div> <!-- / Cont --> 
+		<h2 class="Paises">Contamos con clientes en Argentina, Brasil, Mexico y Uruguay</h2>
 	</section> <!-- / Mapa -->
 	<?php include("includes/footer.php"); ?>
 </section> <!--/Contenedor-central-->
