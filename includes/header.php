@@ -12,11 +12,11 @@
 
 	<nav class="Header-navegacion" id="menu">
 		<ul>
-			<li><a href="index.php">INICIO</a></li>
+			<li><a href="https://www.dospuntoclick.com">INICIO</a></li>
 			<li><a href="nosotros.php">NOSOTROS</a></li>
 			<li><a href="trabajos.php">TRABAJOS</a></li>
 			<li><a href="servicios.php">SERVICIOS</a></li>
-			<!--<li><a href="trabaja.php">TRABAJA CON 2.C</a></li>-->
+			<li><a href="contratar.php">CONTRATAR SERVICIO</a></li>
 			<li><a href="contacto.php">CONTACTO</a></li>
 		</ul>
 	</nav> <!--/ Header-navegacion -->

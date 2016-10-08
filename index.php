@@ -16,20 +16,26 @@
 	<link rel="stylesheet" href="public/css/main.css" />
 </head>
 <body>
-
+<?php include_once("analyticstracking.php") ?>
 <section class="Contenedor-central">
 	<?php include("includes/header.php"); ?>
 	<section class="Copy">
 			<div class="Copy-destacado">
 				<p>Tu unidad de negocios en internet</p>
-				<h2>Pensamos, diseñamos, desarrollomos, alojamos, medimos y analizamos tu empresa en la web + soporte tecnico</h2>
-				<h3>A solo ar$990 x mes</h3>
+				<h2>Pensamos, diseñamos, desarrollomos, alojamos, medimos y analizamos tu empresa en la web + soporte t&eacute;cnico</h2>
+				<h3>A s&oacute;lo ar$990 x mes</h3>
 			</div> <!--/Texto-destacado -->
 
 			<section class="Copy-botonera">
 				<a href="contacto.php">
 					<div class="Copy-bt1">
 						CONTACTANOS
+					</div> <!--/ Copy-bt1 -->
+                </a>
+
+                <a href="contratar.php">
+					<div class="Copy-bt2">
+						CONTRATAR SERVICIO
 					</div> <!--/ Copy-bt1 -->
                 </a>
 			</section> <!--/ Copy-botonera -->
@@ -44,7 +50,7 @@
 			</p>
 		</article> <!-- / Explicacion-texto -->
 
-		<a href="#">
+		<a href="servicios.php">
 			<div class="Explicacion-boton">
 				<p>EN UN UNICO PLAN TODOS LOS SERVICIOS - VER MAS</p>
 			</div> <!--/UnicoPLan -->
@@ -74,7 +80,7 @@
 	</section> <!-- / Puntos -->
 
 	<section class="Prepago">
-			<h2 class="Prepago-titulo">100% PREPAGO Y LIBRE DE CAMBIOS, RAPIDO Y FACIL.</h2>
+			<h2 class="Prepago-titulo">100% PREPAGO Y LIBRE PARA CAMBIOS, RAPIDO Y FACIL.</h2>
 		</section> <!--/Prepago -->
 
 	<section class="Services">
@@ -104,17 +110,7 @@
 		</div> <!--/Services5 -->
 	</section> <!--/Services -->
 
-	<section class="Metodologia">
-		<h2 class="Metodologia-titulo">
-			Conocé nuestra metodologia de trabajo <span class="Team">#TeamEverest</span>
-		</h2>
-		<h3 class="Metodologia-subtitulo">
-			Codo a codo con nuestro cliente logramos desarrollar el producto perfecto
-		</h3>
-			<div class="Mountain-vermas">
-				<a href="#">CONOCE NUESTRO SISTEMA</a>
-			</div> <!--/Mountain-vermas -->
-	</section> <!--/ Metodologia -->
+	<!-- METODOLOGIA EVEREST -->
 
 	<section class="Desarrollo">
 		<h2 class="Desarrollo-titulo">100% DISENADOS Y DESARROLLADO A MEDIDA</h2>
@@ -138,7 +134,7 @@
 				<a href="http://www.juanam.com" target="_blank">www.juanam.com</a>
 					<article class="Clientes-article">
 						<p class="Clientes-texto">
-							"Dia a dia tenemos gran cantidad de reservas a traves de nuestro web site, logrando una gran base de comensales, los cuales contactamos mes a mes con beneficios exclusivos desde nuestro news letter."
+							"Dia a dia tenemos gran cantidad de reservas a traves de nuestro web site, logrando una gran base de comensales, a los cuales llegamos mes a mes con beneficios exclusivos desde nuestro news letter."
 						</p>
 					</article>
 			</div> <!--/ Clientes-2 -->

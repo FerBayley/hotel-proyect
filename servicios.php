@@ -14,6 +14,7 @@
 	<link rel="stylesheet" href="public/css/main.css" />
 </head>
 <body>
+<?php include_once("analyticstracking.php") ?>
 
 <section class="Contenedor-central">
 	<?php include("includes/header.php"); ?>	

@@ -14,6 +14,7 @@
 	<link rel="stylesheet" href="public/css/main.css" />
 </head>
 <body>
+<?php include_once("analyticstracking.php") ?>
 
 <section class="Contenedor-central">
 
@@ -23,7 +24,10 @@
 		<article class="Contenedor-Copy">
 			<h2 class="Contenedor-titulo">Hacemos sitios web efectivos</h2>
 			<p class="Contenedor-texto">
-				Hacemos sitios web totalmene a medida, que funcionan y escalan, que emiten reportes y te dan las herramientas necesarias para la toma de desiciones en tu empresa o servicio. Vender mas y fidelizar a tus clientes, somos el primer servicio prepago de diseño y desarrollo web.
+				Hacemos sitios web totalmene a medida, que funcionan y escalan, que emiten reportes y te dan las herramientas necesarias para la toma de desiciones en tu empresa o servicio.
+			</p>
+			<p class="Contenedor-texto">
+				Somos el primer servicio prepago de diseño y desarrollo web.
 			</p>
 		</article>
 	</section> <!-- / Contenedor -->

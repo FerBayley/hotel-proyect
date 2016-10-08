@@ -6,14 +6,32 @@ body
 	font-family 'Open Sans', sans-serif
 	font-size 16px
 footer
-	border-bottom solid 1px #DDD
+	background-image url('../../public/images/camiseta.jpg')
+	background-position center
+	background-size cover
+	-moz-background-size cover
+	-ms-background-size cover
 	color #DDD
 	height auto
-	margin .5em 0 1.5em 0
+	margin 0 0 1.5em 0
 	width 100%
+	h2
+		color #5E5757
+		font-size 2em
+		font-weight 100
+		margin 1em 0 .2em 0
+	h3
+		color grey
+		font-size 1.3em
+		font-weight 100
 	a
 		color grey
 		text-decoration none
+	ul li
+		display inline-block
+		list-style none
+		margin 1em 0 0 .5em
+		vertical-align middle
 h1
 	margin 0
 	padding 0
@@ -67,7 +85,7 @@ form
 .Ceo-estructure
 	background-color #DDD
 .Copy
-	background-image url('../../public/images/dummi2.jpg')
+	background-image url('../../public/images/dummi4.jpg')
 	background-position center
 	background-size cover
 	-moz-background-size cover
@@ -281,6 +299,13 @@ form
 		font-size 2em
 		font-weight 100
 		padding 1.7em 0 1.7em 0
+.ExplicacionPlus
+	background-color red
+	height auto
+	margin 0 auto
+	margin-top 1em
+	max-width 95%
+	width 100%
 .Explicacion	
 	border-bottom solid 1px #ecf0f1
 	margin 0 0 1em 0
@@ -376,26 +401,42 @@ form
 	padding 1em 0 1em 2em
 	vertical-align top
 	width 60%
+	&-espacio
+		color orange
+		margin 1em 0 .5em 0
 	&-article
 		font-size .8em
 		line-height 2.3em
 		padding 0 0 0 1em
+		a:hover
+			text-decoration underline
 .Formulario
 	padding 0 0 4em 0
 	display inline-block
 	vertical-align top
-.QueresUnSitio
-	background-color rgba(0, 0, 0, .7)
+.ColumnaPresitio
+	background-color rgba(0, 0, 0, .4)
 	display inline-block
 	height auto
-	margin -1.9em .5em 0 .5em
+	margin -2em 1.5em 0 1.5em
+	padding 0 1em 1.2em 1em
 	vertical-align top
-	width 50%
-	&-titulo
-		color #FFF
-		font-size 2em
+	width 40%
+	a
+		color orange
+		text-decoration none
+	a:hover
+		text-decoration underline
+	h2
+		color orange
+		font-size 1.5em
 		font-weight 100
-		padding .5em 0 0 .5em
+		margin .9em 0 0 0
+		text-align left
+	p
+		color #DDD
+		line-height 1.3em
+		margin 1em 0 0 0
 		text-align left
 .Galeriatech
 	height auto
@@ -492,20 +533,32 @@ form
 	overflow hidden
 	margin 0 auto
 	margin-bottom 1em
-	width 90%
-	ul li
-		font-size .7em
+	width 93%
+	&-1
+		display inline-block
+		margin 0 1em 0 0
+		vertical-align middle
+	&-2
+		display inline-block
+		margin 0 1em 0 0
+		vertical-align middle
+	&-3
 		display inline-block
 		float right
-		padding 0 .2em 0 .2em
-		vertical-align top
+		vertical-align middle
+		ul li
+			font-size .8em
+			display inline-block
+			list-style none
+			margin-top .3em
+			vertical-align middle
 .Datos
 	color orange
 	font-weight 600
 .Cont
 	margin 5em 0 0 0
 .Mapa
-	background-image url('../../public/images/mapa.jpg')
+	background-image url('../../public/images/dummi3.jpg')
 	background-position center
 	background-size cover
 	border-bottom 1px #DDD solid
@@ -515,11 +568,6 @@ form
 	height auto
 	text-align center
 	width auto
-	p
-		color grey
-		font-size 1em
-		padding 3em 1em 0 2em
-		line-height .5em
 .Marcas
 	background-color #ecf0f1
 	box-sizing border-box
@@ -641,8 +689,7 @@ form
 		font-weight 100
 		padding 0 0 2em 0
 .Paises
-	background-color rgba(0, 0, 0, .7)
-	color #FFF
+	color orange
 	font-size 1.2em
 	font-weight 100
 	margin -1em 0 1em 0
@@ -1021,6 +1068,42 @@ form
 		text-decoration none
 	a:hover
 		color #333
+		
+.CuerpoGracias
+	height auto
+	margin 0 auto
+	margin-top 2em 
+	max-width 1200px
+	padding 4em 0 2em 0
+	width 100%
+	h1
+		color #333
+		font-size 3em
+		font-weight 100
+		text-align center
+	h2
+		color orange
+		font-size 1.7em
+		font-weight 100
+		margin .5em 0 0 0
+		text-align center
+	h3
+		font-size 1.3em
+		font-weight 100
+		margin 1em 0 0 0
+		text-align center
+.RedesGracias
+	height auto
+	text-align center
+	ul li
+		display inline-block
+		opacity .5
+		vertical-align middle
+		a:hover
+			opacity .6
+
+
+
 @media screen and (max-width: 320px)
 	.Copy
 		height 400px

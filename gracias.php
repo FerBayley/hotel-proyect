@@ -16,9 +16,36 @@
 	<link rel="stylesheet" href="public/css/main.css" />
 </head>
 <body>
+<?php include_once("analyticstracking.php") ?>
 
 <section class="Contenedor-central">
 	<?php include("includes/header.php"); ?>
+
+		<section class="CuerpoGracias">
+			<h1>Muchas gracias por contactarnos!!!</h1>
+			<h3>Dentro de las promixas 24hs. te estaremos contactando</h3>
+			<h2>Tambien podes conocer mas sobre nosotros y nustro trabajo en las redes sociales</h2>
+		</section> <!-- / CuerpoGracias -->
+
+		<section class="RedesGracias">
+			<ul>
+				<li>
+					<a href="#">
+						<img src="public/images/facebook.png" width="100px" height="100px" alt="Facebook">
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<img src="public/images/twitter.png" width="100px" height="100px" alt="Twitter">
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<img src="public/images/instagram.png" width="100px" height="100px" alt="Instagram"></a>
+					</li>
+			</ul>
+		</section> <!-- / RedesGracias -->
+
 	<?php include("includes/footer.php"); ?>
 </section> <!--/Contenedor-central-->
 

@@ -14,6 +14,7 @@
 	<link rel="stylesheet" href="public/css/main.css" />
 </head>
 <body>
+<?php include_once("analyticstracking.php") ?>
 
 <section class="Contenedor-central">
 	<?php include("includes/header.php"); ?>
@@ -22,7 +23,6 @@
 		<div class="Cont">
 		    <div class="Formulario">
 		        <form action="enviar.php" method="post">
-		            <h2>CONTACTO</h2>
 		            <input type="text" name="nombre" placeholder="Nombre" required>
   		            <input type="text" name="telefono" placeholder="Telefono" required>
 		            <input type="text" name="email" placeholder="Email" required>
@@ -31,14 +31,21 @@
 		        </form>
 		    </div> <!-- / Formulario -->
 
-		    <div class="QueresUnSitio">
-		    	<h2 class="QueresUnSitio-titulo">Queres un sitio web increible!!!</h2>
-		    	<article class="QueresUnSitio-article">
-		    		<p class="QueresUnSitio-texto">
-		    			Estas a punto de tener un sitio web totalmente a medida, escalable y que se adaptan a todas las resoluciones y dispositivos moviles.
-		    		</p>
-		    	</article>
-		    </div> <!-- / QueresUnSitio -->
+		    <div class="ColumnaPresitio">
+		    	<h2>Vos y tu empresa pueden tener un sitio web increible!!!</h2>
+		    	<p>
+		    		Totalmente a medida, escalable y que se adapta a todas las resoluciones y dispositivos moviles.
+		    	</p>	
+		    	<p>
+		    		Escribinos y dentro de las proximas 24hs. te estaremos respondiendo, tambien podes conocer mas sobre nosotros y sobre nuestro servicio en las redes sociales.
+		    	</p>
+		    	<p>
+		    		Vas a poder abonar con tarjeta y hasta en 12 cuotas sin interes.
+		    	</p>
+		    	<p>No dejes de consultar los terminos y condiciones de nuestro servicio</p>
+		    	<p>Ver politicas del sitio: <a href="terminos-y-condiciones.php">acá</a></p></p>
+		    </div> <!-- / ColumnaPresitio -->
+
 		</div> <!-- / Cont --> 
 		<h2 class="Paises">Contamos con clientes en Argentina, Brasil, Mexico y Uruguay</h2>
 	</section> <!-- / Mapa -->
