@@ -1,9 +1,9 @@
 <footer>
 	<section class="Footer">
 		<article class="Footer-article">
-			<h2 class="Footer-espacio">Tenemos tu camiseta puesta</h2>
-			<h3>Somos fananticos de tu marca, emprendimiento o servicio</h3>
-			<h3>Trabajamos dedicademente para lograr el producto exitoso que estas buscando y nesicitando</h3>
+			<h2 class="Footer-espacio"><strong>Tenemos tu camiseta puesta</strong></h2>
+			<h3>Somos fananticos de tu marca, emprendimiento o servicio.</h3>
+			<h3>Trabajamos dedicademente para lograr el producto exitoso que estas buscando y nesicitando.</h3>
 			<p>&copy; 2PuntoClick.com │ Todos los derechos reservados 2016.</p>
 			<p><span class="Soporte-tecnico"><a href="mailto:urgencias@dospuntoclick.com">URGENCIAS SOPORTE TECNICO</a></span></p>
 				<p><a href="index.php">INICIO</a> │<a href="mailto:contacto@dospuntoclick.com">contacto@dospunbtoclick.com</a> │ 
@@ -55,6 +55,9 @@
 		<img src="public/images/todopagos.jpg" width="86" height="32" alt="">
 	</div> <!-- / Loving-1 -->
 
+	<div class="Loving-2">
+		<img src="public/images/mercado-pago.jpg" width="53" height="37" alt="">
+	</div> <!-- / Loving-2 -->
 	<div class="Loving-2">
 		<img src="public/images/2servers.jpg" width="100" height="26" alt="">
 	</div> <!-- / Loving-2 -->
