@@ -20,7 +20,17 @@
 
 	<?php include("includes/header.php"); ?>
 	
-	TERMINOS Y CONDICIONES DEL SERVICIO
+		<section class="Comerciales">
+			<h2 class="Comerciales-titulo">TERMINOS Y CONDICIONES DEL SERVICIO</h2> <!-- / Comerciales-titulo -->
+				<article class="Comerciales-texto">
+				<p class="Comerciales-letras">
+					<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati omnis ea magni molestias, eos eum delectus labore maxime, vero repudiandae recusandae ullam in cumque. Eius adipisci sequi, aliquam dignissimos modi.</span>
+					<span>Error eligendi aut cupiditate itaque tenetur nemo quae aperiam assumenda modi sapiente excepturi corporis eum reprehenderit harum placeat adipisci consequatur, unde, porro quia possimus doloremque explicabo! Consequatur quae nostrum sint.</span>
+					<span>Harum quo iure nam, in recusandae ut nisi rerum a. Sunt debitis quibusdam iure impedit, neque nesciunt facilis reiciendis quaerat ea architecto quasi illo, voluptatum. Consectetur iure, molestiae fugiat reprehenderit.</span>
+				</p>
+		</article>
+
+		</section> <!-- / Comerciales -->
 
 	<?php include("includes/footer.php"); ?>
 

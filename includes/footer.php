@@ -2,22 +2,22 @@
 	<section class="Footer">
 		<article class="Footer-article">
 			<h2 class="Footer-espacio"><strong>Tenemos tu camiseta puesta</strong></h2>
-			<h3>Somos fananticos de tu marca, emprendimiento o servicio.</h3>
-			<h3>Trabajamos dedicademente para lograr el producto exitoso que estas buscando y nesicitando.</h3>
+			<h3>Somos fanáticos de tu marca, emprendimiento o servicio.</h3>
+			<h3>Trabajamos dedicadamente para lograr el producto exitoso que estás buscando y necesitando.</h3>
 			<p>&copy; 2PuntoClick.com │ Todos los derechos reservados 2016.</p>
-			<p><span class="Soporte-tecnico"><a href="mailto:urgencias@dospuntoclick.com">URGENCIAS SOPORTE TECNICO</a></span></p>
+			<p><span class="Soporte-tecnico"><a href="mailto:soporte@dospuntoclick.com">SOPORTE TECNICO</a></span></p>
 				<p><a href="index.php">INICIO</a> │<a href="mailto:contacto@dospuntoclick.com">contacto@dospunbtoclick.com</a> │ 
-				<a href="terminos-y-condiciones.php">Terminos y condiciones del servicio</a>
-			<p>Buenos Aires - Republica Argentina</p> 
+				<a href="terminos-y-condiciones.php">Términos y condiciones del servicio</a>
+			<p>Buenos Aires - República Argentina</p> 
 		</article> <!-- / Footer-article -->
 		<ul>
 			<li>
-				<a href="#">
+				<a href="https://www.facebook.com/2puntoclick/?fref=ts" target="_blanck">
 					<img src="public/images/facebook.png" width="27px" height="27px" alt="Facebook">
 				</a>
 			</li>
 			<li>
-				<a href="#">
+				<a href="https://twitter.com/ferbayley" target="_blanck">
 					<img src="public/images/twitter.png" width="27px" height="27px" alt="Twitter">
 				</a>
 			</li>
@@ -28,7 +28,6 @@
 			</li>
 		</ul>
 	</section> <!--/ Footer-info -->
-
 	<!--<section class="Redes">
 		<ul>
 			<li>

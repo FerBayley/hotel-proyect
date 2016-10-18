@@ -21,9 +21,9 @@
 	<?php include("includes/header.php"); ?>
 	<section class="Copy">
 			<div class="Copy-destacado">
-				<p>Tu unidad de negocios en internet</p>
-				<h2>Pensamos, diseñamos, desarrollomos, alojamos, medimos y analizamos tu empresa en la web + soporte t&eacute;cnico</h2>
-				<h3>A s&oacute;lo ar$990 x mes</h3>
+				<p>Tu unidad de negocios en Internet</p>
+				<h2>Pensamos, diseñamos, desarrollamos, alojamos, medimos y analizamos tu empresa en la web + soporte técnico</h2>
+				<h3>A solo ar$990 x mes</h3>
 			</div> <!--/Texto-destacado -->
 
 			<section class="Copy-botonera">
@@ -44,9 +44,7 @@
 	<section class="Explicacion">
 		<article class="Explicacion-texto">
 			<p>
-				Somos un grupo de profesionales entrenados en las artes del <span class="Resaltado">diseño y el desarrollo web</span>, con mas de 15 años de experiencia en la industria. 
-				Pensando, diseñanado y desarrollando sitios web que <span class="Resaltado">funcionan, escalan y se pueden medir</span>, logrando que el cliente tenga una verdadera unidad de negocios en linea, que le permita <span class="Resaltado">incrementar sus ventas, fidelizar a sus clientes y lograr posicionar mejor su marca.
-				</span>
+				Somos un grupo de profesionales entrenados en las artes del <span class="Resaltado">diseño y el desarrollo web</span>, con mas de 15 años de experiencia en la industria. Pensando, diseñando y desarrollando sitios web que <span class="Resaltado">funcionan, escalan y se pueden medir</span>, logrando que el cliente tenga una verdadera unidad de negocios en linea, que le permita <span class="Resaltado">incrementar sus ventas, fidelizar a sus clientes y lograr posicionar mejor su marca</span>.
 			</p>
 		</article> <!-- / Explicacion-texto -->
 
@@ -70,12 +68,12 @@
 
 		<div class="Puntos-col3">
 			<img src="public/images/consultoria.png" width="150px" height="150px" alt="Consultoria web">
-			<h2>Metricas y consultoria</h2>
+			<h2>Métricas y consultoría</h2>
 		</div> <!-- / Puntos-col3 -->
 
 		<div class="Puntos-col4">
 			<img src="public/images/soporte.png" width="150px" height="150px" alt="Soporte tecnico">
-			<h2>Soporte tecnico</h2>
+			<h2>Soporte técnico</h2>
 		</div> <!-- / Puntos-col3 -->
 	</section> <!-- / Puntos -->
 
@@ -96,7 +94,7 @@
 
 		<div class="Services-3">
 			<img src="public/images/consultoria.png" width="140px" height="140px" alt="Metricas y consultoria">
-			<h2>Metricas</h2>
+			<h2>Métricas</h2>
 		</div> <!--/Services3 -->
 
 		<div class="Services-4">
@@ -123,7 +121,7 @@
 				<a href="http://www.flabiavit.com.ar" target="_blank">www.flabiavit.com.ar</a>
 					<article class="Clientes-article">
 						<p class="Clientes-texto">
-							"Desde hace mas de 10 años trabajamos con la agencia en todos nuestros productos para la web, en este tiempo tuvimos importantes resultados que llevaron a otro nivel nuestra relacion con los pacientes."
+							"Desde hace mas de 10 años trabajamos con la agencia en todos nuestros productos para la web, en este tiempo tuvimos importantes resultados que llevaron a otro nivel nuestra relación con los pacientes."
 						</p>
 					</article>
 		</div> <!--/ Clientes-1 -->
@@ -134,7 +132,7 @@
 				<a href="http://www.juanam.com" target="_blank">www.juanam.com</a>
 					<article class="Clientes-article">
 						<p class="Clientes-texto">
-							"Dia a dia tenemos gran cantidad de reservas a traves de nuestro web site, logrando una gran base de comensales, a los cuales llegamos mes a mes con beneficios exclusivos desde nuestro news letter."
+							"Día a día tenemos gran cantidad de reservas a través de nuestro web site, logrando una gran base de comensales, a los cuales llegamos mes a mes con beneficios exclusivos desde nuestro newsletter."
 						</p>
 					</article>
 			</div> <!--/ Clientes-2 -->
@@ -157,5 +155,6 @@
 
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js"></script>
 	<script src="public/js/script.js"></script>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.1/jquery.min.js" type="text/javascript"></script>
 </body>
 </html>

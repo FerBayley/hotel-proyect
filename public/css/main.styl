@@ -189,6 +189,7 @@ form
 		article p
 			color grey
 			font-size 1em
+			font-style italic
 			font-weight 100
 			line-height 1.5em
 			margin .7em 0 0 0
@@ -215,6 +216,7 @@ form
 		article p
 			color grey
 			font-size 1em
+			font-style italic
 			font-weight 100
 			line-height 1.5em
 			margin .7em 0 0 0
@@ -241,6 +243,7 @@ form
 		article p
 			color grey
 			font-size 1em
+			font-style italic
 			font-weight 100
 			line-height 1.5em
 			margin .7em 0 0 0
@@ -327,13 +330,13 @@ form
 	margin-top 3em
 	padding 1em 0 .5em 0
 	text-align center
-	max-width 96%
-	width 100%
+	max-width 95%
+	width auto
 	ul li
 		display inline-block
 		font-size .8em
 		list-style none
-		margin 0 3.3em 0 3.3em
+		margin 0 4.7em 0 4.7em
 		vertical-align top
 		a
 			color grey
@@ -437,7 +440,7 @@ form
 	vertical-align top
 	width 60%
 	&-espacio
-		color orange
+		color #3498db
 		margin 1em 0 .5em 0
 	&-article
 		font-size .8em
@@ -628,8 +631,8 @@ form
 			width 30%
 		img
 			margin 3em 0 0 0
-	&-1:hover
-		opacity .8
+		img:hover
+			opacity .7
 	&-2
 		height auto
 		display inline-block
@@ -648,8 +651,8 @@ form
 			width 30%
 		img
 			margin 3em 0 0 0
-	&-2:hover
-		opacity .8
+		img:hover
+			opacity .7
 	&-3
 		height auto
 		display inline-block
@@ -668,8 +671,8 @@ form
 			width 30%
 		img
 			margin 3em 0 0 0
-	&-3:hover
-		opacity .8
+		img:hover
+			opacity .7
 	&-4
 		height auto
 		display inline-block
@@ -688,8 +691,8 @@ form
 			width 30%
 		img
 			margin 3em 0 0 0
-	&-4:hover
-		opacity .8
+		img:hover
+			opacity .7
 .Metodologia
 	background-image url('../../public/images/everest.jpg')
 	background-position center
@@ -730,6 +733,14 @@ form
 	margin -1em 0 1em 0
 	padding .5em 0 .5em 0
 	text-align center
+.Paises a {
+	color #FFF
+	text-decoration none
+}
+.Paises a:hover {
+	color #FFF
+	text-decoration underline
+}
 .Pensamos
 	box-sizing border-box
 	height auto
@@ -1154,6 +1165,7 @@ form
 		vertical-align top
 		width 45%
 		h2
+			color orange
 			font-size 1em
 			font-weight 100
 			margin 0 0 .5em 0
@@ -1181,6 +1193,54 @@ form
 		width 45%
 		p
 			font-size .8em
+.Pagos 
+	margin 1.3em 0 0 0
+	line-height 1.5em
+	a
+		color orange
+		text-decoration none
+	a:hover
+		text-decoration underline
+	img 
+		margin .5em 0 0 0
+.Comerciales 
+	height auto
+	margin 0 auto
+	margin-bottom 2em
+	margin-top 5em
+	max-width 1200px
+	width 100%
+	ul li
+		font-size .9em
+		display inline-block
+		margin -.5em .5em .5em .5em
+		list-style none
+		a
+			color orange
+			font-size .9em
+			text-decoration none
+		a:hover
+			color grey
+			text-decoration underline
+	&-titulo
+		color orange
+		font-size .9em
+		font-weight 400
+		padding .5em .5em .5em .3em
+	&-letras
+		color #333
+		font-size .9em
+		font-weight 100
+		line-height 1.8em
+		margin-bottom 2em
+		padding 0 0 0 .5em	
+.links 
+	color orange
+	font-weight 500
+	text-decoration none
+.links:hover
+	color #333
+	text-decoration underline
 
 @media screen and (max-width: 320px)
 	.Copy

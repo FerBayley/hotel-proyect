@@ -24,7 +24,7 @@
 		<article class="Contenedor-Copy">
 			<h2 class="Contenedor-titulo">Hacemos sitios web efectivos</h2>
 			<p class="Contenedor-texto">
-				Hacemos sitios web totalmene a medida, que funcionan y escalan, que emiten reportes y te dan las herramientas necesarias para la toma de desiciones en tu empresa o servicio.
+				Hacemos sitios web totalmente a medida, que funcionan y escalan, que emiten reportes y te dan las herramientas necesarias para la toma de decisiones en tu empresa o servicio.
 			</p>
 			<p class="Contenedor-texto">
 				Somos el primer servicio prepago de diseño y desarrollo web.
@@ -48,13 +48,13 @@
 			<h2 class="Estructura-titulo">Un poco de historia</h2>
 			<article>
 				<p>
-					Hace ya mas de 15 años y con ganas de tomar un nuevo rumbo en mi plano laboral, dedi dedicarme de lleno a lo que relamente me apaciona, hacer sitios web.
+					Hace ya mas de 15 años y con ganas de tomar un nuevo rumbo en mi plano laboral, decidí dedicarme de lleno a lo que realmente me apasiona, hacer sitios web.
 				</p>
 				<p>
-					Retome mis estudios y me volque totalmente a especializarme puntualmente en el diseño y el desarrollo web, ahi fue cuando comence a trabajar como freelancer.
+					Retome mis estudios y me volqué totalmente a especializarme puntualmente en el diseño y el desarrollo web, ahí fue cuando comencé a trabajar como freelancer.
 				</p>
 				<p>
-					15 años despues y con toda la experiencia acumala en estos años de trabajo en la industria, nace 2.Click y comenzamos a brindar un servicio unico y totalmente novedoso, un servicio prepago de diseño y desarrollo web, libre de cambios, creando desde cero y totalmente a medida marcas y trakeando desde el primer segundo on line toda la actividad de tu productos subidos a internet, te invito a conocer toda nuestra gama de servicios en un unico plan. <a href="servicios.php">Ver servicios</a>. 
+					15 años después y con toda la experiencia acumulada en estos años de trabajo en la industria, nace 2.Click, y comenzamos a brindar un servicio único y totalmente novedoso, un servicio prepago de diseño y desarrollo web, libre para los cambios, creando desde cero y totalmente a medida,  monitorenado desde el primer segundo on line toda la actividad de tus productos subidos a Internet, te invito a conocer toda nuestra gama de servicios en un único plan.
 				</p>
 			</article>
 		</div><!-- / Estructura-2 -->
