@@ -2,10 +2,15 @@
 <html lang="es-AR">
 <meta charset="utf-8">
 <head>
-	<title>DosPuntoClick Diseño y desarrollo web prepago - Diseño y desarrollo web prepago</title>
+	<title>DosPuntoClick - Diseño y desarrollo web prepago</title>
 	<!-- VIEWPORT -->
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
 	<!-- VIEWPORT -->
+	<meta name="keywords" content="diseño y desarrollo web, prepago, diseño de sitios web, desarrollo de sitios web">
+	<meta name="description" content="Somos el primer servicios prepago de diseño y desarrollo web, hacemos sitios autoadministrables, adaptables amoviles, que escalan y se pueden medir." />
+	<meta name="author" content="DosPuntoClick.com">
+	<meta name="owner" content="DosPuntoClick.com">
+	<meta name="robots" content="all">
 	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
 	<link href='https://fonts.googleapis.com/css?family=Fredoka+One' rel='stylesheet' type='text/css'>
 	<link href='https://fonts.googleapis.com/css?family=Varela+Round' rel='stylesheet' type='text/css'>
@@ -23,13 +28,15 @@
 			<div class="Copy-destacado">
 				<p>Tu unidad de negocios en Internet</p>
 				<h2>Pensamos, diseñamos, desarrollamos, alojamos, medimos y analizamos tu empresa en la web + soporte técnico</h2>
-				<h3>A solo ar$990 x mes</h3>
+				<h2>100% PREPAGO Y LIBRE PARA CAMBIOS, RAPIDO Y FACIL.</h2>
+				<h2>100% DISEÑADO Y DESARROLLADO A MEDIDA.</h2>
+				<h3>A s&oacute;lo AR$ 990 x mes</h3>
 			</div> <!--/Texto-destacado -->
 
 			<section class="Copy-botonera">
 				<a href="contacto.php">
 					<div class="Copy-bt1">
-						CONTACTANOS
+						CONTACTO
 					</div> <!--/ Copy-bt1 -->
                 </a>
 
@@ -44,7 +51,7 @@
 	<section class="Explicacion">
 		<article class="Explicacion-texto">
 			<p>
-				Somos un grupo de profesionales entrenados en las artes del <span class="Resaltado">diseño y el desarrollo web</span>, con mas de 15 años de experiencia en la industria. Pensando, diseñando y desarrollando sitios web que <span class="Resaltado">funcionan, escalan y se pueden medir</span>, logrando que el cliente tenga una verdadera unidad de negocios en linea, que le permita <span class="Resaltado">incrementar sus ventas, fidelizar a sus clientes y lograr posicionar mejor su marca</span>.
+				Somos un grupo de profesionales entrenados en las artes del <span class="Resaltado">diseño y el desarrollo web</span>, con m&aacute;s de 15 años de experiencia en la industria. Pensando, diseñando y desarrollando sitios web que <span class="Resaltado">funcionan, escalan y se pueden medir</span>, logrando que el cliente tenga una verdadera unidad de negocios en l&iacute;nea, que le permita <span class="Resaltado">incrementar sus ventas, fidelizar a sus clientes y lograr posicionar mejor su marca</span>.
 			</p>
 		</article> <!-- / Explicacion-texto -->
 
@@ -111,7 +118,7 @@
 	<!-- METODOLOGIA EVEREST -->
 
 	<section class="Desarrollo">
-		<h2 class="Desarrollo-titulo">100% DISENADOS Y DESARROLLADO A MEDIDA</h2>
+		<h2 class="Desarrollo-titulo">100% DISEÑADOS Y DESARROLLADO A MEDIDA</h2>
 	</section> <!--/Prepago -->
 
 	<section class="Clientes">
@@ -121,7 +128,7 @@
 				<a href="http://www.flabiavit.com.ar" target="_blank">www.flabiavit.com.ar</a>
 					<article class="Clientes-article">
 						<p class="Clientes-texto">
-							"Desde hace mas de 10 años trabajamos con la agencia en todos nuestros productos para la web, en este tiempo tuvimos importantes resultados que llevaron a otro nivel nuestra relación con los pacientes."
+							"Desde hace más de 10 años trabajamos con la agencia <strong>2.Click</strong> en todos nuestros productos para la web y en este tiempo tuvimos importantes resultados que llevaron a otro nivel nuestra relación con los pacientes."
 						</p>
 					</article>
 		</div> <!--/ Clientes-1 -->
@@ -132,7 +139,7 @@
 				<a href="http://www.juanam.com" target="_blank">www.juanam.com</a>
 					<article class="Clientes-article">
 						<p class="Clientes-texto">
-							"Día a día tenemos gran cantidad de reservas a través de nuestro web site, logrando una gran base de comensales, a los cuales llegamos mes a mes con beneficios exclusivos desde nuestro newsletter."
+							"Día a día tenemos gran cantidad de reservas a través de nuestro web site desarrollado por <strong>2.Click</strong>, logrando una gran base de comensales, a los cuales llegamos mes a mes con beneficios exclusivos desde nuestro newsletter."
 						</p>
 					</article>
 			</div> <!--/ Clientes-2 -->
@@ -143,7 +150,7 @@
 			<a href="http://www.arquinovacolor.com.ar" target="_blanck">www.arquinovacolor.com.ar</a>
 				<article class="Clientes-article">
 					<p lass="Clientes-texto">
-						"Nuestro mayor feature es nuestro chat, nos conecta al instante con nuestros clientes y lo mejor de todo, con nuestros nuevos clientes, una simple idea nos hizo posicionarnos mejor que la competencia."
+						"Nuestro mayor feature es nuestro chat, nos conecta al instante con nuestros clientes y lo mejor de todo, con nuestros nuevos clientes, una simple idea que instrumento <strong>2.Click</strong> nos hizo posicionar mejor que la competencia."
 						</p>
 				</article>
 			</div> <!--/Clientes-3 -->
@@ -155,6 +162,6 @@
 
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js"></script>
 	<script src="public/js/script.js"></script>
-	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.1/jquery.min.js" type="text/javascript"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.3.1/jquery.min.js" type="text/javascript"></script>
 </body>
 </html>

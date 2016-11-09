@@ -3,6 +3,11 @@
 <meta charset="utf-8">
 <head>
 	<title>DosPuntoClick Diseño y desarrollo web prepago - Nosotros</title>
+	<meta name="keywords" content="diseño y desarrollo web, prepago, diseño de sitios web, desarrollo de sitios web">
+	<meta name="description" content="Somos el primer servicios prepago de diseño y desarrollo web, hacemos sitios autoadministrables, adaptables amoviles, que escalan y se pueden medir." />
+	<meta name="author" content="DosPuntoClick.com">
+	<meta name="owner" content="DosPuntoClick.com">
+	<meta name="robots" content="all">
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
 	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
 	<link href='https://fonts.googleapis.com/css?family=Fredoka+One' rel='stylesheet' type='text/css'>
@@ -48,13 +53,13 @@
 			<h2 class="Estructura-titulo">Un poco de historia</h2>
 			<article>
 				<p>
-					Hace ya mas de 15 años y con ganas de tomar un nuevo rumbo en mi plano laboral, decidí dedicarme de lleno a lo que realmente me apasiona, hacer sitios web.
+					Hace ya más de 15 años y con ganas de tomar un nuevo rumbo en mi plano laboral, decidí dedicarme de lleno a lo que realmente me apasiona, el diseño, desarrollo y todo lo referente al mundo on line y su comunidad.
 				</p>
 				<p>
 					Retome mis estudios y me volqué totalmente a especializarme puntualmente en el diseño y el desarrollo web, ahí fue cuando comencé a trabajar como freelancer.
 				</p>
 				<p>
-					15 años después y con toda la experiencia acumulada en estos años de trabajo en la industria, nace 2.Click, y comenzamos a brindar un servicio único y totalmente novedoso, un servicio prepago de diseño y desarrollo web, libre para los cambios, creando desde cero y totalmente a medida,  monitorenado desde el primer segundo on line toda la actividad de tus productos subidos a Internet, te invito a conocer toda nuestra gama de servicios en un único plan.
+					15 años después y con toda la experiencia acumulada en estos años de trabajo en la industria; nace <strong>2.Click</strong> y comenzamos a brindar un servicio único y totalmente novedoso, un servicio prepago de diseño y desarrollo web, libre para los cambios, creado desde cero y totalmente a medida,  monitoreando desde el primer segundo on line toda la actividad de tus productos subidos a Internet. Ahora te invito a conocer toda nuestra gama de <a href="servicios.php">servicios en un único plan</a>.
 				</p>
 			</article>
 		</div><!-- / Estructura-2 -->

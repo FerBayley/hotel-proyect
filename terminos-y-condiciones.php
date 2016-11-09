@@ -3,6 +3,11 @@
 <meta charset="utf-8">
 <head>
 	<title>DosPuntoClick Diseño y desarrollo web prepago - Terminos y condiciones del servicio</title>
+	<meta name="keywords" content="diseño y desarrollo web, prepago, diseño de sitios web, desarrollo de sitios web">
+	<meta name="description" content="Somos el primer servicios prepago de diseño y desarrollo web, hacemos sitios autoadministrables, adaptables amoviles, que escalan y se pueden medir." />
+	<meta name="author" content="DosPuntoClick.com">
+	<meta name="owner" content="DosPuntoClick.com">
+	<meta name="robots" content="all">
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
 	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
 	<link href='https://fonts.googleapis.com/css?family=Fredoka+One' rel='stylesheet' type='text/css'>
@@ -24,9 +29,7 @@
 			<h2 class="Comerciales-titulo">TERMINOS Y CONDICIONES DEL SERVICIO</h2> <!-- / Comerciales-titulo -->
 				<article class="Comerciales-texto">
 				<p class="Comerciales-letras">
-					<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati omnis ea magni molestias, eos eum delectus labore maxime, vero repudiandae recusandae ullam in cumque. Eius adipisci sequi, aliquam dignissimos modi.</span>
-					<span>Error eligendi aut cupiditate itaque tenetur nemo quae aperiam assumenda modi sapiente excepturi corporis eum reprehenderit harum placeat adipisci consequatur, unde, porro quia possimus doloremque explicabo! Consequatur quae nostrum sint.</span>
-					<span>Harum quo iure nam, in recusandae ut nisi rerum a. Sunt debitis quibusdam iure impedit, neque nesciunt facilis reiciendis quaerat ea architecto quasi illo, voluptatum. Consectetur iure, molestiae fugiat reprehenderit.</span>
+					Estamos desarrollando esta sección, pronto estaremos on line con esta sección, muchas gracias y disculpa las molestias.
 				</p>
 		</article>
 

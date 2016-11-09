@@ -3,6 +3,11 @@
 <meta charset="utf-8">
 <head>
 	<title>DosPuntoClick Diseño y desarrollo web prepago - El email se envio de forma correcta</title>
+	<meta name="keywords" content="web, diseño y desarrollo web prepago, consultoria web">
+	<meta name="description" content="Somos el primer servicios prepago de diseño y desarrollo web, hacemos sitios autoadministrables, adaptables amoviles, que escalan y se pueden medir." />
+	<meta name="author" content="DosPuntoClick.com">
+	<meta name="owner" content="DosPuntoClick.com">
+	<meta name="robots" content="all">
 	<!-- VIEWPORT -->
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
 	<!-- VIEWPORT -->

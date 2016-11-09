@@ -3,6 +3,11 @@
 <meta charset="utf-8">
 <head>
 	<title>DosPuntoClick Diseño y desarrollo web prepago - Contactate con 2.C</title>
+	<meta name="keywords" content="conoce nuestro equipo, quienes somos y que hacemos, experiencia en proyectos web">
+	<meta name="description" content="Con mas de 15 años de experiencia en el diseño y desarrollo web estamos presentando el primer servicio web prepago." />
+	<meta name="author" content="DosPuntoClick.com">
+	<meta name="owner" content="DosPuntoClick.com">
+	<meta name="robots" content="all">
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
 	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
 	<link href='https://fonts.googleapis.com/css?family=Fredoka+One' rel='stylesheet' type='text/css'>
@@ -32,18 +37,16 @@
 		    </div> <!-- / Formulario -->
 
 		    <div class="ColumnaPresitio">
-		    	<h2>Vos y tu empresa pueden tener un sitio web increíble!</h2>
+		    	<h2>Vos, tu servicio y tu empresa pueden tener un sitio web increíble!</h2>
 		    	<p>
-		    		Totalmente a medida, escalable y que se adapta a todas las resoluciones y dispositivos móviles.
+		    		Totalmente a medida, autoadministrable, escalable, se adapta a todas las resoluciones y dispositivos móviles, también contás con alojamiento, soporte y consultoría todo por $990 mensuales.
 		    	</p>	
 		    	<p>
-		    		Escribinos y dentro de las próximas 24hs. Te estaremos respondiendo, también podes conocer mas sobre nosotros y sobre nuestro servicio en las redes sociales.
+		    		Somos el primer servicio prepago de diseño y desarrollo web, escribinos y dentro de las próximas 24hs. nos pondremos en contacto con vos, también podes conocer mas sobre nosotros y sobre nuestro servicio en las redes sociales.
 		    	</p>
 		    	<p>
-		    		Vas a poder abonar con tarjeta y hasta en 12 cuotas sin interés.
+		    		El pago se debitara automáticamente de tu tarjeta de crédito.
 		    	</p>
-		    	<p>No dejes de consultar los términos y condiciones de nuestro servicio</p>
-		    	<p>Ver políticas del sitio: <a href="terminos-y-condiciones.php">acá</a></p></p>
 		    </div> <!-- / ColumnaPresitio -->
 
 		</div> <!-- / Cont --> 

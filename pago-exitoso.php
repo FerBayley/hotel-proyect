@@ -3,6 +3,11 @@
 <meta charset="utf-8">
 <head>
 	<title>DosPuntoClick Diseño y desarrollo web prepago - Pago exitoso</title>
+	<meta name="keywords" content="diseño y desarrollo web, prepago, diseño de sitios web, desarrollo de sitios web">
+	<meta name="description" content="Somos el primer servicios prepago de diseño y desarrollo web, hacemos sitios autoadministrables, adaptables amoviles, que escalan y se pueden medir." />
+	<meta name="author" content="DosPuntoClick.com">
+	<meta name="owner" content="DosPuntoClick.com">
+	<meta name="robots" content="all">
 	<!-- VIEWPORT -->
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
 	<!-- VIEWPORT -->

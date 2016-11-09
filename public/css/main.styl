@@ -1,5 +1,6 @@
 *
 	border 0
+	box-sizing border-box
 	margin 0
 	padding 0
 body 
@@ -36,7 +37,7 @@ h1
 	margin 0
 	padding 0
 form
-	background-color rgba(0, 0, 0, .7)
+	background-color rgba(0, 0, 0, .5)
 	border-radius 5px
 	-webkit-border-radius 3px
 	-moz-border-radius 3px
@@ -90,7 +91,7 @@ form
 	background-size cover
 	-moz-background-size cover
 	-ms-background-size cover
-	height 500px
+	height 550px
 	width 100%
 	&-botonera
 		height auto
@@ -167,7 +168,8 @@ form
 				-o-transition all 0.5s ease
 				transition all 0.5s ease
 		h3
-			font-size 2em
+			font-size 2.5em
+			font-weight 100
 			margin .8em 0 .8em 0
 		p
 			font-family 'Open Sans Condensed', sans-serif
@@ -397,6 +399,8 @@ form
 .Estructura
 	height auto
 	width 100%
+	a
+		text-decoration none
 	&-1
 		height auto
 		display inline-block
@@ -453,7 +457,7 @@ form
 	display inline-block
 	vertical-align top
 .ColumnaPresitio
-	background-color rgba(0, 0, 0, .4)
+	background-color rgba(0, 0, 0, .5)
 	display inline-block
 	height auto
 	margin -2em 1.5em 0 1.5em
@@ -473,7 +477,7 @@ form
 		text-align left
 	p
 		color #DDD
-		line-height 1.3em
+		line-height 1.5em
 		margin 1em 0 0 0
 		text-align left
 .Galeriatech
@@ -596,7 +600,7 @@ form
 .Cont
 	margin 5em 0 0 0
 .Mapa
-	background-image url('../../public/images/dummi3.jpg')
+	background-image url('../../public/images/dummi9.jpg')
 	background-position center
 	background-size cover
 	border-bottom 1px #DDD solid
@@ -1241,6 +1245,138 @@ form
 .links:hover
 	color #333
 	text-decoration underline
+
+
+@media screen and (max-width: 768px)
+	.Copy-destacado
+		h2
+			padding 0 3em 0 3em
+	.Header-navegacion
+		background-color #FFF
+		margin 0 0 1em 0
+		padding 0 0 .7em 0
+		text-align left
+		width 100%
+		ul li
+			padding 0 0 0 2.7em
+	.Copy-bt2, .Copy-bt1
+		width 27%
+	.Estructura-1
+		width 100%
+	.Estructura-2
+		width 95%
+		
+
+@media screen and (max-width: 736px)
+	.Header
+		border-bottom top
+	.Header-logo
+		margin-bottom 1.5em
+	.Puntos-col1, .Puntos-col2, .Puntos-col3, .Puntos-col4
+		box-sizing border-box
+		width 20%
+		img
+			height auto
+			width 100%
+	.Prepago
+		margin -2em 0 0 0
+	
+@media screen and (max-width: 640px)
+	.Header-navegacion
+		background-color #FFF
+		margin 0 0 1em 0
+		padding 0 0 .7em 0
+		text-align center
+		width 100%
+	.Copy-bt2, .Copy-bt1
+		width 27%
+	.Estructura-1
+		width 100%
+	.Estructura-2
+		width 95%
+	
+@media screen and (max-width: 360px)
+	.Mapa
+		height auto
+		width 100%
+		.Cont
+			height auto
+			width 100%
+			.Formulario
+				height auto
+				width 100%
+				form
+					width 90%
+	.Btn-comprar
+		a
+			font-size .7em
+	
+
+@media screen and (max-width: 414px)
+	.ColumnaPresitio
+		height auto
+		margin 0 0 2em 0
+		padding 0 .8em 1em .8em
+		width 90%
+	.Comerciales
+		height auto
+		width 85%
+	form
+		margin -3.5em 0 -2.5em 0
+		padding 1em
+	.Btn-comprar 
+		font-size .8em
+	.ColumnasCobros
+		height auto
+		margin .7em .5em -3.5em .5em
+		width 100%
+		&-1
+			height auto
+			margin 0
+			padding 0
+			width 100%
+		&-2
+			margin 1em 0 1em 0
+			padding 0
+			width 100%
+	.Pagos
+		height auto
+		width 100%
+		img
+			height auto
+			width 100%
+	.SeccionComprar
+		margin 0 auto
+		padding 1em 0 1em 0
+		line-height 2em
+	.Contenedor
+		padding 1em 1em 4em 1em
+		&-Copy
+			margin -1em 0 0 0
+	.Estructura-2
+		article
+			p
+				margin 0 0 1em 0
+		ul li
+			margin 0
+			padding 0
+	footer
+		margin 0
+		padding 0
+		.Footer
+			margin 0 0 1em 0
+			padding 0
+	.Loving 
+		margin 1.3em 0 .5em .5em
+	.Copy
+		&-botonera
+			width 100%
+			.Copy-bt1, .Copy-bt2
+				margin 0 0 1em 0
+				width 70%
+	.Header
+		border none
+		padding 0 0 2em 0	
 
 @media screen and (max-width: 320px)
 	.Copy

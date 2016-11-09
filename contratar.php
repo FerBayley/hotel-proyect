@@ -2,7 +2,12 @@
 <html lang="es-AR">
 <meta charset="utf-8">
 <head>
-	<title>DosPuntoClick Diseño y desarrollo web prepago - Contratar servicio</title>
+	<title>DosPuntoClick Diseño y desarrollo web prepago - Como contrato el servicio</title>
+	<meta name="keywords" content="contratar servicio, debito automatico, mercadopago, todopago, servicio web prepago">
+	<meta name="description" content="Vas a poder abonar nuestro servicio de diseño y desarrollo web con debito automatico." />
+	<meta name="author" content="DosPuntoClick.com">
+	<meta name="owner" content="DosPuntoClick.com">
+	<meta name="robots" content="all">
 	<!-- VIEWPORT -->
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
 	<!-- VIEWPORT -->
@@ -24,10 +29,10 @@
 
 		<section class="SeccionComprar">
 			<ul>
-				<li><a href="#como-contratar" title="como contratar">COMO CONTRATAR EL SERVICIO?</a></li>
-				<li><a href="#es-seguro" title="es seguro">ES SEGURO?</a></li>
-				<li><a href="#baja" title="como contratar">ME PUEDO DAR DE BAJA?</a></li>
-				<li><a href="#consultas" title="problemas o denuncias">PROBLEMAS DENIUNCIAS O CONSULTAS</a></li>
+				<li><a href="#como-contratar" title="como contratar">¿COMO CONTRATAR EL SERVICIO?</a></li>
+				<li><a href="#es-seguro" title="es seguro">¿ES SEGURO?</a></li>
+				<li><a href="#baja" title="como contratar">¿ME PUEDO DAR DE BAJA?</a></li>
+				<li><a href="#consultas" title="problemas o denuncias">¿CONSULTAS?</a></li>
 			</ul>
 		</section> <!-- / SeccionComprar -->
 
@@ -36,21 +41,20 @@
 			<div class="ColumnasCobros-1">
 				<h2><strong>IMPORTANTE!</strong></h2>
 				<h2>
-					Estas a punto de <strong>contratar</strong> el servicio prepago de diseño y desarrollo web.
+					Estas a punto de <strong>contratar</strong> el servicio prepago mensual de diseño y desarrollo web.
 				</h2>
 				<h3>
-					Se generara un cargo mensual de <strong>AR$990</strong> que se <strong>debitara automáticamnte</strong> de tu tarjeta de crédito <strong>mes a mes</strong>.
+					Se generara un cargo mensual de <strong>AR$990</strong> que se <strong>debitará automáticamnte</strong> de tu tarjeta de crédito <strong>mes a mes</strong>.
 				</h3>
 				<ul>
-					<li>
-						1. - 2.Click no cobra intereses, tu banco puede aplicar tarifas adicionales.
-					</li>
-					<li>2. - Permanencia mínima de 6 meses.</li>
-					<li>
-						3. - Aceptamos tarjeta de crédito y algunas tarjetas de débito dependiendo de tu banco.</li>
-					<li>4. - Puedo cancelar mi suscripción cuando quiera</li>
-					<li>5. - Mi suscripción se renueva automáticamente cada mes</li>
-					<li>6. - Entiendo que los cobros son generados automáticamente</li>
+					<li>1. - <strong>www.dospuntoclick.com</strong> bajo ningun concepto cobra intereses.</li>
+					<li>2. - Permanencia mínima con el servicio es de 6 meses.</li>
+					<li>3. - Momentanemente los pagos sólo se efectuaren con tarjeta de cedito.</li>
+					<li>5. - La suscripción se renueva automáticamente cada mes.</li>
+					<li>6. - Entiendo que los cobros son generados automáticamente.</li>
+					<li>7. - <strong>www.dospuntoclick.com</strong> no cobrara, ni enviara ningun tipo de cargo extra via email o cualquier otro tipo de comunicación, siendo el único cargo que se cobre el de la suscripción mensual.</li>
+					<li>8. - El monto a facturar es fijo y en pesos Argentinos.</li>
+
 				</ul>
 			</div> <!-- / ColumnasCobros-1 -->
 
@@ -71,29 +75,29 @@
 
 	<a name="como-contratar">
 		<section class="Comerciales">
-			<h2 class="Comerciales-titulo">COMO CONTRATAR EL SERVICIO?</h2> <!-- / Comerciales-titulo -->
+			<h2 class="Comerciales-titulo">¿COMO CONTRATAR EL SERVICIO?</h2> <!-- / Comerciales-titulo -->
 				<article class="Comerciales-texto">
 				<p class="Comerciales-letras">
-					Es fácil, ingresas a nuestro sitio web www.dospuntoclick.com te dirigís al menú de opciones donde vas a encontrar el acceso "CONTRATAR SERVICIO", haces click en el botón naranja con la leyenda "CONTRATAR SERVICIO AR$990 X MES", y vas a ser redireccionado a la pasarela de pagos de <a class="links" href="https://www.mercadopago.com">www.mercadopago.com</a>.
+					Es fácil, ingresas a nuestro sitio web <strong>www.dospuntoclick.com</strong> te dirigís al menú de opciones donde vas a encontrar el acceso <strong>"CONTRATAR SERVICIO"</strong>, haces click en el botón naranja con la leyenda <strong>"CONTRATAR SERVICIO AR$990 X MES"</strong>, y vas a ser redireccionado a la pasarela de pagos de <a class="links" href="https://www.mercadopago.com"><strong>www.mercadopago.com</strong></a>.
 					<br>
-					Dentro de la pasarela de pagos de <a class="links" href="https://www.mercadopago.com">www.mercadopago.com</a> vas a poder seleccionar tu medio de pago preferido, el importe va a ser debitado todos los meses de tu tarjeta de crédito.
+					Dentro de la pasarela de pagos de <a class="links" href="https://www.mercadopago.com"><strong>www.mercadopago.com</strong></a> vas a poder seleccionar tu medio de pago preferido, el importe va a ser debitado todos los meses de tu tarjeta de crédito.
 				</p>
 		</article>
 	</a>
 
 	<a name="es-seguro">
-		<h2 class="Comerciales-titulo">ES SEGURO?</h2> <!-- / Comerciales-titulo -->
+		<h2 class="Comerciales-titulo">¿ES SEGURO?</h2> <!-- / Comerciales-titulo -->
 			<article class="Comerciales-texto">
 				<p class="Comerciales-letras">
-					Si, www.dospuntoclick.com utiliza la plataforma de pagos de <a class="links" href="https://www.mercadopago.com">www.mercadopago.com</a>, ademas, nuestro sitio cuenta con un certificado de seguridad SSL, el mismo se puede ver en nuestro dominio https://www.dospuntoclick.com, esto hace que todas las transacciones sean encriptadas.
+					<strong>www.dospuntoclick.com</strong> utiliza la plataforma segura de pagos de <a class="links" href="https://www.mercadopago.com"><strong>www.mercadopago.com</strong></a>, ademas, nuestro sitio cuenta con un <strong>certificado de seguridad SSL</strong>, el mismo se puede ver en nuestro dominio <strong>https://www.dospuntoclick.com</strong>, esto hace que todas las transacciones sean encriptadas.
 					<br>
-					Conoce mas sobre este tipo de certificación <a class="links" href="https://es.wikipedia.org/wiki/Hypertext_Transfer_Protocol_Secure" target="_blanck">aca</a>.
+					Conoce mas sobre este tipo de certificación <a class="links" href="https://es.wikipedia.org/wiki/Hypertext_Transfer_Protocol_Secure" target="_blanck">acá</a>.
 				</p>
 			</article>
 	</a>
 
 	<a name="baja">
-		<h2 class="Comerciales-titulo">ME PUEDO DAR DE BAJA?</h2> <!-- / Comerciales-titulo -->
+		<h2 class="Comerciales-titulo">¿ME PUEDO DAR DE BAJA?</h2> <!-- / Comerciales-titulo -->
 			<article class="Comerciales-texto">
 				<p class="Comerciales-letras">
 					En dospuntoclick.com tenes una mínima permanencia de seis meses, al aceptar el debito automático en tu tarjeta de crédito el mismo se efectuara durante los próximos seis meses.
@@ -103,10 +107,10 @@
 	</a>
 
 	<a name="consultas">
-			<h2 class="Comerciales-titulo">PROBLEMAS DENIUNCIAS O CONSULTAS</h2> <!-- / Comerciales-titulo -->
+			<h2 class="Comerciales-titulo">CONSULTAS</h2> <!-- / Comerciales-titulo -->
 			<article class="Comerciales-texto">
 				<p class="Comerciales-letras">
-					En dospuntoclick.com estamos para atender a tus dudas y poder solucionar tus inconvenientes, en caso que te quieras comunicar con nosotros te dejamos la lista de contactos.
+					En <strong>www.dospuntoclick.com</strong> estamos para atender a tus dudas y poder darle la solución a tus inconvenientes, en caso que te quieras comunicar con nosotros te dejamos la lista de contactos.
 				</p>
 				<ul>
 					<li>
@@ -150,6 +154,6 @@
 
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js"></script>
 	<script src="public/js/script.js"></script>
-	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.1/jquery.min.js" type="text/javascript"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.3.1/jquery.min.js" type="text/javascript"></script>
 </body>
 </html>
